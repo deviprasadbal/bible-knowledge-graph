@@ -1,0 +1,971 @@
+[
+  {
+    "id": "why-anything",
+    "title": "Why Is There Anything at All?",
+    "category": "big-questions",
+    "icon": "sparkles",
+    "hook": "Why is there something rather than nothing?",
+    "summary": "The Bible opens not with an argument but with a declaration: “In the beginning God created the heavens and the earth” (Gen 1:1). Protestants, with the whole historic church, believe God made everything out of nothing (in Latin, creatio ex nihilo). He did not shape some eternal raw material, and the world is not a piece of God. It exists because God freely willed it and spoke it into being (Ps 33:6; Heb 11:3). The New Testament adds that the Son, the eternal Word, was the one through whom all things were made, and that he still holds them together (John 1:3; Col 1:16-17). This means the universe is contingent: it need not exist, yet it does, as a gift. It also means creation is good (Gen 1:31), ordered and worth studying, a conviction that helped nourish early modern science. Above all, it means you are not an accident. Everything that exists has its reason in the will and love of God (Rev 4:11).",
+    "philosophy": "Leibniz called this the first question reason must ask: why is there something rather than nothing? Every thing we meet depends on something else for its existence. Aquinas argued that a chain of dependent things cannot explain itself, so there must be a being that exists by its own nature, and this, he said, is what all people call God. Hume objected that we have no experience of universes being made, so we cannot reason about their cause. Others reply that a question does not disappear simply because it is hard. Augustine added a striking idea: God did not create the world in time but created time itself, so asking what God was doing “before” creation misunderstands the question. The biblical answer is not only a first cause but a personal one. If the ground of being is a speaking, loving God, then existence itself is a kind of word addressed to us.",
+    "keyVerses": ["Gen.1.1-Gen.1.3", "Ps.33.6-Ps.33.9", "John.1.1-John.1.3", "Col.1.16-Col.1.17", "Heb.11.3", "Rom.4.17", "Rev.4.11"],
+    "people": ["god_1324", "moses_2108", "john_1677"],
+    "related": ["who-is-god", "meaning", "time-and-history", "new-creation"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "9", "label": "Westminster Shorter Catechism Q9"},
+      {"creed": "westminster_confession_of_faith", "item": "4", "label": "Westminster Confession of Faith 4 (Of Creation)"},
+      {"creed": "nicene_creed", "item": "", "label": "Nicene Creed"}
+    ],
+    "reflect": [
+      "Does the fact that the universe need not exist change how you see ordinary things?",
+      "What would it mean for your life to be a gift rather than an accident?",
+      "Which feels more honest to you: the open question of the Nasadiya Sukta or the confident claim of Genesis 1:1?"
+    ],
+    "bridge": {
+      "concept": "The Nasadiya Sukta (Hymn of Creation)",
+      "tradition": "Hindu (Rigveda 10.129)",
+      "resonance": "The Nasadiya Sukta is one of the most profound reflections on origins in any religion. It reaches back before being and non-being, when “That One” breathed without breath by its own power, and desire stirred as the first seed of mind. Like Genesis, it refuses to treat the world as self-explanatory and points to a single source beyond everything that exists. Its closing humility, wondering whether even the one in the highest heaven knows, honours a mystery the biblical writers also feel (Job 38:4).",
+      "difference": "The hymn ends in an open question; Genesis opens with a confident claim. Later Vedanta tends to see the world as a transformation of Brahman, as Brahman's body (Ramanuja), or as an appearance over Brahman (Shankara). Protestants believe something different: a personal God, who needs nothing, freely called the universe into being from nothing. The world is neither part of God nor an endless cycle. It had a real beginning, is distinct from its Maker, and exists purely as a gift of his will.",
+      "invitation": "If the world's origin is a mystery, is it more like a riddle to be solved or a voice to be heard?"
+    }
+  },
+  {
+    "id": "who-is-god",
+    "title": "Who Is God?",
+    "category": "big-questions",
+    "icon": "sun",
+    "hook": "Can the infinite have a name?",
+    "summary": "Protestants believe in one living God (Deut 6:4) who is both far beyond us and very near. The Westminster Shorter Catechism describes him as a Spirit, infinite, eternal and unchangeable in his being, wisdom, power, holiness, justice, goodness and truth (Q4). Yet he is not an abstract force. At the burning bush he gives Moses his name: “I AM WHO I AM” (Exod 3:14), the one who simply is and depends on nothing. On Mount Sinai he describes himself as “compassionate and gracious, slow to anger, abounding in loving devotion and faithfulness” (Exod 34:6). Isaiah hears angels cry “Holy, holy, holy” (Isa 6:3): utterly pure and set apart. The New Testament sums up his character in three words: “God is love” (1 John 4:8). Christians believe this God has shown himself most fully in Jesus Christ, who “has made Him known” (John 1:18). To know God, then, is not only to hold correct ideas but to enter a relationship of worship, trust and love (John 17:3).",
+    "philosophy": "Philosophers have long asked whether we can speak of God at all. If God is infinite, are our finite words simply too small? Aquinas answered with the doctrine of analogy: when we say God is good, we mean something truly related to human goodness, yet infinitely greater. Pascal wrote of the God of Abraham, Isaac and Jacob, not the God of the philosophers and scholars: a living God who acts and speaks, not a conclusion at the end of an argument. Kierkegaard warned that God can become a mere idea we admire from a safe distance. Critics such as Feuerbach argued that God is only a projection of human ideals onto the sky. The biblical prophets anticipated something like this charge when they mocked idols that people shape in their own image (Isa 44). Their claim runs the other way: we do not invent God; God makes himself known, and in his light we finally see ourselves.",
+    "keyVerses": ["Exod.3.13-Exod.3.15", "Exod.34.6-Exod.34.7", "Deut.6.4", "Ps.90.2", "Isa.6.1-Isa.6.5", "John.4.24", "John.1.18", "1John.4.8"],
+    "people": ["god_1324", "moses_2108", "isaiah_617", "john_1677", "jesus_905"],
+    "related": ["trinity", "why-anything", "truth-and-revelation", "love"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "4", "label": "Westminster Shorter Catechism Q4"},
+      {"creed": "belgic_confession_of_faith", "item": "1", "label": "Belgic Confession Art. 1 (The Only God)"},
+      {"creed": "westminster_confession_of_faith", "item": "2", "label": "Westminster Confession of Faith 2 (Of God and the Holy Trinity)"}
+    ],
+    "reflect": [
+      "Which of God's self-descriptions in Exodus 34:6 surprises you most, and why?",
+      "Can you trust someone you will never fully understand?",
+      "Where do you think your own picture of God first came from?"
+    ],
+    "bridge": {
+      "concept": "Brahman: Being, Consciousness, Bliss",
+      "tradition": "Hindu (Upanishads and Vedanta)",
+      "resonance": "The Upanishads also reach for the ultimate reality behind all things. “In the beginning this was Being alone, one only, without a second,” says the Chandogya Upanishad (6.2.1). Brahman is often described as sat-chit-ananda: being, consciousness and bliss. Exodus 3:14 led Christian thinkers such as Aquinas to describe God as Being itself, the one whose very nature is to exist. Both traditions insist that the ultimate is not one object among others in the world, and that our words about it must be used with great humility.",
+      "difference": "Advaita Vedanta holds that the highest Brahman is nirguna, beyond all qualities, and that a personal Lord belongs to a lower level of truth. Theistic schools such as Ramanuja's honour a personal God with countless good qualities, which is closer to biblical faith. Protestants believe God's personhood is not a lower level but the deepest truth about him: God speaks, promises, judges, forgives and loves. He is the Creator, forever distinct from the world, and he has shown his face in Jesus Christ.",
+      "invitation": "What would change for you if the ultimate reality were not only something to understand but someone who speaks?"
+    }
+  },
+  {
+    "id": "human-nature",
+    "title": "What Is a Human Being?",
+    "category": "big-questions",
+    "icon": "user",
+    "hook": "Are we dust, divine, or something in between?",
+    "summary": "The Bible gives a double description of human beings. We are dust: “the LORD God formed man from the dust of the ground” (Gen 2:7). Yet we are made “in the image of God” (Gen 1:27). Protestants understand this image (in Latin, imago Dei) as our created likeness to God in knowledge, righteousness and holiness, together with our calling to care for the world on his behalf (Westminster Shorter Catechism Q10). It is why every human life has dignity, whatever its age, ability, caste or wealth. But the image has been marred. Sin has turned the heart inward, so that “the heart is deceitful above all things” (Jer 17:9). Humans are therefore both glorious and broken, capable of great love and great cruelty. The Christian hope is that in Christ, the perfect image of God, our humanity is renewed “in the image of its Creator” (Col 3:10). We become more fully human, not less, as we are joined to him.",
+    "philosophy": "Pascal described humans as both the glory and the refuse of the universe: a thinking reed, fragile, yet great because we know that we are fragile. This double truth is hard to hold. Some modern thinkers reduce humans to clever animals or to machines made of chemistry. Others, like Nietzsche, urge us to create our own values and rise above the herd. The biblical view resists both moves. We are creatures, so we are not gods who invent our own meaning. Yet we bear God's image, so we are not mere matter. Augustine confessed that he had become a great puzzle to himself, and he saw our restlessness as a clue: we were made for God. Christian thought also insists that the body matters. A human being is not a soul trapped in flesh but an embodied person, and the hope of bodily resurrection affirms this.",
+    "keyVerses": ["Gen.1.26-Gen.1.28", "Gen.2.7", "Ps.8.3-Ps.8.6", "Ps.139.13-Ps.139.14", "Jer.17.9", "Col.3.9-Col.3.10", "2Cor.3.18"],
+    "people": ["adam_78", "eve_1231", "david_994", "paul_2479"],
+    "related": ["sin-and-the-fall", "why-anything", "death-and-hope", "meaning"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "10", "label": "Westminster Shorter Catechism Q10"},
+      {"creed": "heidelberg_catechism", "item": "6", "label": "Heidelberg Catechism Q6"},
+      {"creed": "westminster_confession_of_faith", "item": "4", "label": "Westminster Confession of Faith 4 (Of Creation)"}
+    ],
+    "reflect": [
+      "Where do you see both the glory and the brokenness of humanity in yourself?",
+      "If every person bears God's image, whom do you find hardest to treat that way?",
+      "Does your body feel to you like part of who you are, or like a container you live in?"
+    ],
+    "bridge": {
+      "concept": "Atman and the Image of God",
+      "tradition": "Hindu (Vedanta)",
+      "resonance": "Both traditions refuse to see the human being as merely body and mind. The Upanishads teach that at the core of each person is the Atman, the true self, intimately bound to Brahman: “you are that” (tat tvam asi, Chandogya Upanishad 6.8.7). Christians likewise teach that every person carries the image of God, a dignity no disgrace can erase. Both say that knowing oneself and knowing the divine belong together, and that the true self is found by turning toward the ultimate.",
+      "difference": "In Advaita, the Atman simply is Brahman, and liberation means realizing that identity. Vishishtadvaita and Dvaita keep the self distinct from God, yet all three schools treat the self as beginningless. Protestants believe the soul is created, not eternal, and that a human being is a creature who reflects God like a mirror, never becoming God. The image is not a hidden divine core to uncover but a likeness and a calling, damaged by sin and restored by grace. Our destiny is communion with God, not identity with him.",
+      "invitation": "Consider whether the deepest truth about you is that you are divine, or that you are deeply loved by the divine."
+    }
+  },
+  {
+    "id": "evil-and-suffering",
+    "title": "Evil and Suffering",
+    "category": "big-questions",
+    "icon": "droplets",
+    "hook": "If God is good, why is there so much pain?",
+    "summary": "The Bible never hides suffering. It contains a whole book about a righteous man who loses everything, many psalms of protest, and a book of laments over a ruined city. Protestants believe evil was not part of God's good creation; it entered through the rebellion of creatures and the fall of humanity (Gen 3; Rom 5:12). Yet God remains sovereign. He is never the author of sin, but he can bring good even out of what others intend for evil, as Joseph tells his brothers (Gen 50:20). Scripture refuses easy formulas. Job's friends insist he must have sinned, and God says they “have not spoken about Me accurately” (Job 42:7). Jesus rejects the idea that a man was born blind because of his own or his parents' sin (John 9:2-3). The deepest Christian answer is not an explanation but a person: God entered suffering in Christ, bore evil on the cross, and promises a day when he “will wipe away every tear” (Rev 21:4).",
+    "philosophy": "The problem of evil may be the strongest objection to belief in God. An argument traced to Epicurus and restated by Hume runs: if God is willing to prevent evil but unable, he is not all-powerful; if able but unwilling, he is not good. Dostoevsky's Ivan Karamazov refuses any future harmony bought with a tortured child's tears. Christian thinkers have offered partial answers. Augustine taught that evil is not a thing God made but a corruption of good, like a wound in healthy flesh. Others note that a world with real love requires real freedom, which can be misused. C. S. Lewis suggested that pain can wake us from a false self-sufficiency. Yet the Bible itself seems to warn against tidy theories. God's answer to Job is not a lecture but an encounter with his presence and majesty (Job 38-42), and Job responds not to an argument but to a vision: “now my eyes have seen You” (Job 42:5).",
+    "keyVerses": ["Job.1.20-Job.1.22", "Job.42.5-Job.42.7", "Gen.50.20", "Ps.22.1-Ps.22.2", "John.9.1-John.9.3", "Luke.13.1-Luke.13.5", "Rom.8.28", "Rev.21.4"],
+    "people": ["job_1639", "eliphaz_1145", "joseph_1710", "jesus_905"],
+    "related": ["sin-and-the-fall", "freedom-and-providence", "faith-and-doubt", "death-and-hope", "atonement"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "1", "label": "Heidelberg Catechism Q1"},
+      {"creed": "heidelberg_catechism", "item": "28", "label": "Heidelberg Catechism Q28"},
+      {"creed": "belgic_confession_of_faith", "item": "13", "label": "Belgic Confession Art. 13 (The Doctrine of God's Providence)"}
+    ],
+    "reflect": [
+      "When you suffer, do you tend to ask “why me?” or “who is with me?”",
+      "Have you seen good come out of something painful, without the pain itself being good?",
+      "What do you make of God praising Job, who complained honestly, over his friends, who defended God?"
+    ],
+    "bridge": {
+      "concept": "Karma and Grace",
+      "tradition": "Hindu (classical karma theory)",
+      "resonance": "The doctrine of karma takes moral life with great seriousness: every act bears fruit, and the universe is not indifferent to good and evil. Scripture agrees that “whatever a man sows, he will reap” (Gal 6:7). Both traditions reject the idea that suffering is meaningless noise. Many theistic Hindu traditions also teach that the Lord oversees karma and can show grace beyond it, as when Krishna promises in the Gita to free the one who takes refuge in him from all sins (18.66).",
+      "difference": "Classical karma theory explains present suffering by past deeds, often in earlier lives, so that no suffering is finally undeserved. The book of Job reads like a sustained challenge to that kind of logic: Job's friends argue it, and God rejects their argument (Job 42:7). Protestants believe that much suffering cannot be traced to the sufferer's own guilt. The Christian answer is grace: the innocent Son of God suffered what he did not deserve, so that the guilty might receive what they could never earn.",
+      "invitation": "Ask whether a world explained entirely by deserving would leave any room for mercy."
+    }
+  },
+  {
+    "id": "meaning",
+    "title": "The Meaning of Life",
+    "category": "big-questions",
+    "icon": "compass",
+    "hook": "If everything passes, what is worth living for?",
+    "summary": "The first question of the Westminster Shorter Catechism asks, “What is the chief end of man?” Its answer: “to glorify God, and to enjoy him for ever.” Protestants believe life finds its meaning not in what we achieve or own, but in the relationship for which we were made. Ecclesiastes explores the alternative with brutal honesty. Its Teacher, traditionally identified with Solomon, tries pleasure, work, wisdom and wealth, and finds them all hevel, a Hebrew word for breath or vapor, translated “futility” (Eccl 1:2). Yet the same book says God “has set eternity in the hearts of men” (Eccl 3:11), and it ends with a call to “fear God and keep His commandments” (Eccl 12:13). Jesus asks what it would profit someone to gain the whole world and lose their soul (Matt 16:26). The Christian claim is that meaning is received, not manufactured. In God's presence there is joy (Ps 16:11), and even ordinary acts can be done “to the glory of God” (1 Cor 10:31).",
+    "philosophy": "Albert Camus held that the most urgent question in philosophy is whether life is worth living at all. He described the absurd as the clash between our hunger for meaning and a universe that stays silent, and he urged us to live fully anyway, like Sisyphus forever pushing his stone uphill. Nietzsche warned that once belief in God fades, the foundations of meaning would shake, and he called for humans to create new values. Christian thinkers agree that the question is real. Augustine wrote that our hearts are restless until they rest in God. Pascal spoke of an infinite emptiness in us that only an infinite object can fill. Kierkegaard described despair as the sickness of a self that will not rest in the power that made it. For the Bible, the sense of futility is not proof that life is meaningless, but a signal that we were made for more than this world alone can give.",
+    "keyVerses": ["Eccl.1.2-Eccl.1.3", "Eccl.3.11", "Eccl.12.13", "Ps.16.11", "Ps.73.25-Ps.73.26", "Matt.16.26", "John.10.10", "1Cor.10.31"],
+    "people": ["solomon_2762", "asaph_330", "jesus_905", "paul_2479"],
+    "related": ["soli-deo-gloria", "human-nature", "work-and-vocation", "wisdom", "death-and-hope"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "1", "label": "Westminster Shorter Catechism Q1"},
+      {"creed": "westminster_larger_catechism", "item": "1", "label": "Westminster Larger Catechism Q1"}
+    ],
+    "reflect": [
+      "What have you hoped would give your life meaning, and has it?",
+      "What would it look like to enjoy ordinary gifts as coming from God's hand?",
+      "Do you think the feeling of futility is a verdict on life, or a signal pointing beyond it?"
+    ],
+    "bridge": {
+      "concept": "Maya and Hevel",
+      "tradition": "Hindu (Advaita Vedanta)",
+      "resonance": "Advaita's teaching on maya and the Teacher's word hevel both unsettle our trust in appearances. Shankara taught that the world of many changing things is not ultimately real in the way Brahman is, and that clinging to it binds us. Ecclesiastes says that wealth, pleasure and achievement are like breath, here and gone, unable to bear the weight of our longing. Both expose the folly of seeking final meaning in fleeting things, and both call the seeker to look beyond them.",
+      "difference": "Hevel does not mean illusion. Ecclesiastes treats the world as real, created and good, but brief, elusive and shadowed by death. (Theistic schools such as Ramanuja's also affirm the world's reality.) The cure is not to see through the world but to receive it rightly, to “eat and drink and enjoy his work” as a gift “from the hand of God” (Eccl 2:24). Protestants believe meaning comes from relationship with the Creator and from the hope of resurrection, which makes our labour “not in vain” (1 Cor 15:58).",
+      "invitation": "Is the problem with the world that it is unreal, or that we ask it to be God?"
+    }
+  },
+  {
+    "id": "truth-and-revelation",
+    "title": "Truth and Revelation",
+    "category": "big-questions",
+    "icon": "lamp",
+    "hook": "Can we find the truth, or must the truth find us?",
+    "summary": "Protestants believe God makes himself known in two ways. First, creation itself speaks: “The heavens declare the glory of God” (Ps 19:1), so that God's “eternal power and divine nature” are visible to all (Rom 1:20). The Belgic Confession calls the universe “a beautiful book” in which every creature is like a letter (Art. 2). Yet this general revelation, though real, is not enough to bring us home to God, because sin clouds our minds. So God has spoken more clearly through prophets and apostles, and finally “by His Son” (Heb 1:1-2). John's Gospel calls Jesus the Logos, the Word, who was with God and was God, and who “became flesh” (John 1:1, 14). When Pilate asks, “What is truth?” (John 18:38), the answer is standing in front of him: “I am the way and the truth and the life” (John 14:6). For Christians, truth is finally not only a statement but a person, faithfully witnessed in Scripture (2 Tim 3:16).",
+    "philosophy": "How can we know anything for certain? Descartes tried to rebuild knowledge from the one thing he could not doubt, his own thinking. Hume showed how little pure reason can prove, and Kant argued that we never know things as they are in themselves, only as they appear to us. These limits raise a question: if ultimate truth exists, could we reach it by our own climbing? Christian faith answers that we need revelation, truth that comes to us from beyond. Augustine believed we see truth only in God's light, as the eye sees only by the sun. Calvin compared Scripture to spectacles that bring a blurred world into focus. The word Logos already had a long history in Greek thought, from Heraclitus to the Stoics, as the rational order behind the world. John's claim was radical: that order is personal, and it has a human face.",
+    "keyVerses": ["Ps.19.1-Ps.19.4", "Rom.1.19-Rom.1.20", "John.1.1-John.1.5", "John.1.14", "Heb.1.1-Heb.1.2", "John.14.6", "John.18.37-John.18.38", "2Tim.3.16-2Tim.3.17"],
+    "people": ["john_1677", "jesus_905", "david_994", "paul_2479", "pilate_2365"],
+    "related": ["sola-scriptura", "incarnation", "who-is-god", "wisdom"],
+    "creeds": [
+      {"creed": "belgic_confession_of_faith", "item": "2", "label": "Belgic Confession Art. 2 (The Means by Which We Know God)"},
+      {"creed": "westminster_confession_of_faith", "item": "1", "label": "Westminster Confession of Faith 1 (Of the Holy Scripture)"},
+      {"creed": "westminster_larger_catechism", "item": "2", "label": "Westminster Larger Catechism Q2"}
+    ],
+    "reflect": [
+      "Where in nature have you sensed something speaking beyond itself?",
+      "Is it easier for you to trust an idea or a person, and why?",
+      "If truth were a person, how would you go about knowing it?"
+    ],
+    "bridge": {
+      "concept": "Logos and Vak (the Sacred Word)",
+      "tradition": "Hindu (Vedic and grammarian thought)",
+      "resonance": "Few traditions take the power of the word as seriously as Hinduism. In the Rigveda, Vak, sacred Speech, declares that she upholds the gods and pervades heaven and earth (10.125). The Mandukya Upanishad treats Om as the sound that contains all things, and the philosopher Bhartrhari described ultimate reality as Shabda-Brahman, the Word-essence from which the world unfolds. The Vedas are shruti, “what is heard”: revelation received rather than invented. John's Gospel likewise begins with a creative Word that was “in the beginning.”",
+      "difference": "John's Logos is not an eternal sound, a cosmic vibration or an abstract principle. He is a person who “was with God” and “was God,” and who entered history as a particular man, Jesus of Nazareth (John 1:1, 14). Mimamsa thinkers held the Vedas to be authorless and eternal; Protestants believe Scripture is God-breathed through human authors writing in real times and places. The decisive revelation is not a sound to meditate on but a life to follow and a voice that calls each person by name.",
+      "invitation": "What would it mean if the Word behind the universe were not only something to recite but someone to listen to?"
+    }
+  },
+  {
+    "id": "death-and-hope",
+    "title": "Death and Hope",
+    "category": "big-questions",
+    "icon": "anchor",
+    "hook": "Is death a door, a wall, or a wheel?",
+    "summary": "The Bible is honest about death. “Dust you are, and to dust you shall return” (Gen 3:19). Death is not presented as natural or friendly, but as an enemy that entered the world through sin (Rom 5:12), “the last enemy to be destroyed” (1 Cor 15:26). Yet Christians do not grieve “like the rest, who are without hope” (1 Thess 4:13). Protestants believe that at death the souls of believers go at once to be with Christ (Phil 1:21-23), and that at the end of history the dead will be raised bodily, transformed and imperishable (1 Cor 15:42-44). The Bible teaches one earthly life followed by judgment (Heb 9:27), not a series of rebirths. The ground of this hope is Jesus himself. At the tomb of his friend Lazarus he said, “I am the resurrection and the life” (John 11:25), and then he wept. His own resurrection is the “firstfruits” of a harvest to come (1 Cor 15:20). Such hope is “an anchor for the soul” (Heb 6:19).",
+    "philosophy": "Socrates taught that philosophy is a preparation for dying, and Plato pictured the soul escaping the body like a prisoner leaving a cell. Epicurus argued that death is nothing to us, since where death is, we are not. Heidegger, much later, described human existence as a being-toward-death and urged us to face mortality honestly rather than hide from it. Pascal saw endless distraction as our great escape from thinking about death. The Christian view differs from all of these. Death is not a friend releasing the soul, nor simply nothing, nor merely the horizon of an authentic life. It is a real enemy, yet a defeated one. Paul can even taunt it: “Where, O Death, is your victory?” (1 Cor 15:55). Dietrich Bonhoeffer, led away to execution in 1945, is reported to have said that this was the end, but for him the beginning of life.",
+    "keyVerses": ["Gen.3.19", "Ps.90.10-Ps.90.12", "John.11.25-John.11.26", "1Cor.15.20-1Cor.15.26", "1Cor.15.54-1Cor.15.57", "Phil.1.21-Phil.1.23", "1Thess.4.13-1Thess.4.14", "Heb.2.14-Heb.2.15"],
+    "people": ["lazarus_1812", "martha_1937", "jesus_905", "paul_2479"],
+    "related": ["resurrection", "new-creation", "human-nature", "time-and-history"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "57", "label": "Heidelberg Catechism Q57"},
+      {"creed": "westminster_shorter_catechism", "item": "37", "label": "Westminster Shorter Catechism Q37"},
+      {"creed": "westminster_confession_of_faith", "item": "32", "label": "Westminster Confession of Faith 32 (Of the State of Men after Death)"}
+    ],
+    "reflect": [
+      "How do you usually avoid thinking about death, and what happens when you stop avoiding it?",
+      "Why do you think Jesus wept at Lazarus' tomb, knowing he was about to raise him?",
+      "Which do you long for more: to be set free from your life, or to see it made whole?"
+    ],
+    "bridge": {
+      "concept": "Moksha and the Resurrection of the Body",
+      "tradition": "Hindu (Vedanta)",
+      "resonance": "Both traditions refuse to treat death as the final word, and both place final hope in God. Moksha means release from samsara, the cycle of birth and death, into a state beyond sorrow. In Sri Vaishnava teaching, the liberated soul lives in the presence of Vishnu in Vaikuntha and offers him loving service forever. Christians, too, describe the final state as seeing God's face and serving him with joy (Rev 22:3-4). Both see the present life as morally weighty for what comes after.",
+      "difference": "Protestants believe there is one earthly life, not many; death is followed by judgment, not rebirth (Heb 9:27). Salvation is not release from the body or from the world, but the raising of the body and the renewal of the world. In Advaita, individuality is finally transcended; in Christian hope, persons remain persons, known and loved by name. And the hope rests on a historical claim: that Jesus of Nazareth rose bodily from the grave, the first of many to follow.",
+      "invitation": "Ask yourself whether your deepest hope is to escape the body or to see it, and the whole world, made new."
+    }
+  },
+  {
+    "id": "freedom-and-providence",
+    "title": "Freedom and Providence",
+    "category": "big-questions",
+    "icon": "map",
+    "hook": "If God guides all things, are my choices really mine?",
+    "summary": "Protestants believe God governs everything in his creation, from galaxies to sparrows (Matt 10:29), and that nothing happens by blind chance. The Heidelberg Catechism says that health and sickness, riches and poverty come to us “not by chance but by His fatherly hand” (Q27). Yet the Bible never treats humans as puppets. People make real choices and answer for them: “choose for yourselves this day whom you will serve” (Josh 24:15). Both truths stand side by side. Joseph's brothers truly meant evil, yet “God intended it for good” (Gen 50:20). The crucifixion happened “by God's set plan,” yet those who carried it out were guilty (Acts 2:23). Paul tells believers to “work out your salvation,” because “it is God who works in you to will and to act” (Phil 2:12-13). The Westminster Confession teaches that God's decree neither makes him the author of sin nor does violence to the human will (3.1). Providence is meant to comfort, not to paralyse.",
+    "philosophy": "The tension between divine sovereignty and human freedom is among the oldest puzzles in philosophy. Boethius, awaiting execution, argued that God sees all time in a single eternal present, so his knowing our choices does not force them. Augustine, and later Luther in his debate with Erasmus, insisted that the fallen will is not neutral but bound by its own desires, so that true freedom is a gift of grace. Calvin and Jonathan Edwards developed a view now called compatibilism: we act freely when we act from our own desires, even if those desires have causes. Arminian Protestants answer that God's foreknowledge leaves room for a genuine power to choose otherwise. Modern thinkers ask a parallel question about genes and brain chemistry. The Bible does not settle the puzzle with a formula. It holds both truths together, so that we neither despair of our choices nor imagine we are alone in the universe.",
+    "keyVerses": ["Gen.50.19-Gen.50.21", "Josh.24.15", "Prov.16.9", "Prov.16.33", "Matt.10.29-Matt.10.31", "Acts.2.23", "Rom.8.28", "Phil.2.12-Phil.2.13"],
+    "people": ["joseph_1710", "joshua_1727", "peter_2745", "paul_2479"],
+    "related": ["evil-and-suffering", "sola-gratia", "time-and-history", "faith-and-doubt"],
+    "creeds": [
+      {"creed": "westminster_confession_of_faith", "item": "3", "label": "Westminster Confession of Faith 3 (Of God's Eternal Decree)"},
+      {"creed": "westminster_confession_of_faith", "item": "9", "label": "Westminster Confession of Faith 9 (Of Free Will)"},
+      {"creed": "heidelberg_catechism", "item": "27", "label": "Heidelberg Catechism Q27"}
+    ],
+    "reflect": [
+      "Looking back, can you see a moment where something meant for harm turned toward good?",
+      "Does the idea that God guides all things make you feel safer or smaller?",
+      "Do you feel most free when you are on your own, or when you are held by someone you trust?"
+    ],
+    "bridge": {
+      "concept": "Ishvara, Karma and the Gita's Final Choice",
+      "tradition": "Hindu (Bhagavad Gita)",
+      "resonance": "The Bhagavad Gita holds a similar tension. Near its end Krishna says that the Lord dwells in the heart of all beings, turning them as if mounted on a machine (18.61). Yet two verses later he tells Arjuna to reflect on everything fully and then do as he chooses (18.63). Divine governance and human choice stand side by side, much as in Philippians 2:12-13. Both traditions also teach that our actions shape who we become, and that surrender to God is itself a real act of will.",
+      "difference": "In much Hindu thought, present circumstances are shaped by karma from past lives, and the Lord distributes the fruits of action according to that law. Protestants believe providence is not the working out of a moral mechanism but the personal care of a Father who numbers the hairs of our heads (Matt 10:30). They also teach that the fallen will cannot turn to God on its own; it must be set free by grace. True freedom is not independence from God but delight in his will.",
+      "invitation": "Is freedom more like having no one to answer to, or like finally wanting what is good?"
+    }
+  },
+  {
+    "id": "time-and-history",
+    "title": "Time and History",
+    "category": "big-questions",
+    "icon": "hourglass",
+    "hook": "Is history a circle or a story?",
+    "summary": "The Bible tells a story with a beginning, a middle and an end. It opens “in the beginning” (Gen 1:1) and closes with God making “all things new” (Rev 21:5). In between are unrepeatable events: the call of Abraham, the exodus from Egypt, the exile, and above all the life, death and resurrection of Jesus. Paul says that “when the time had fully come, God sent His Son” (Gal 4:4), as if history had been ripening toward that moment. Protestants believe God is sovereign over history, declaring “the end from the beginning” (Isa 46:10), and that history is moving toward a goal: Christ's return, the resurrection, the final judgment and the new creation. This gives weight to time. Our days are not endlessly repeated; each one matters, which is why the psalmist prays, “teach us to number our days” (Ps 90:12). God is patient with history's slow pace, since to him “a day is like a thousand years” (2 Pet 3:8), but the story will reach its end.",
+    "philosophy": "Many ancient peoples, including the Greeks, imagined time as a great circle. The Stoics taught that the universe would burn up and then repeat itself exactly. Nietzsche revived this as a thought experiment, the eternal recurrence, asking whether we could bear to live our lives again endlessly. Augustine, in the City of God, argued against cyclical time because Christ died once for our sins and, being raised, dies no more. A single cross cannot be repeated. Many historians of ideas believe this biblical sense of linear time shaped Western notions of progress, purpose and history itself. Hegel and Marx later turned it into secular stories of history's march forward. The Christian view differs from those, too. History's meaning does not come from human progress but from God's purpose. Its centre lies not in the future but in the past, at the cross and the empty tomb, and its end is a gift rather than an achievement.",
+    "keyVerses": ["Gen.1.1", "Eccl.3.1-Eccl.3.11", "Isa.46.9-Isa.46.10", "Gal.4.4-Gal.4.5", "Mark.1.15", "Heb.9.26-Heb.9.28", "2Pet.3.8-2Pet.3.10", "Rev.22.13"],
+    "people": ["abraham_58", "daniel_975", "jesus_905", "peter_2745", "john_1677"],
+    "related": ["kingdom-of-god", "new-creation", "freedom-and-providence", "death-and-hope"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "7", "label": "Westminster Shorter Catechism Q7"},
+      {"creed": "westminster_confession_of_faith", "item": "33", "label": "Westminster Confession of Faith 33 (Of the Last Judgment)"},
+      {"creed": "belgic_confession_of_faith", "item": "37", "label": "Belgic Confession Art. 37 (The Last Judgment)"}
+    ],
+    "reflect": [
+      "Would you live differently if you believed this day would never come around again?",
+      "What events in your own life feel like turning points that cannot be undone?",
+      "Does it comfort or unsettle you that history is heading toward an ending?"
+    ],
+    "bridge": {
+      "concept": "The Yugas and the Cycles of Time",
+      "tradition": "Hindu (Puranic cosmology)",
+      "resonance": "Hindu cosmology offers one of the grandest visions of time in human thought: four ages, or yugas, repeating within vast cycles called kalpas, each a single day of Brahma. Both traditions place human life within a time far larger than ourselves, and both speak of moral decline and renewal. The present Kali Yuga is an age of darkness expected to end with the coming of Kalki; Christians also speak of “the last days” and await the return of Christ to set things right.",
+      "difference": "In the Puranic view, creation and dissolution follow one another without final end, like the turning of a wheel. Protestants believe time had a real beginning and is heading toward a real goal, after which there is no further dissolution. History is a story with a plot: creation, fall, redemption and new creation. Its turning point is a single, unrepeatable event, the death and resurrection of Jesus, who appeared “once for all” (Heb 9:26). Because time does not repeat, every moment carries eternal weight.",
+      "invitation": "Consider which picture of time, the wheel or the story, makes your own choices feel more significant, and why."
+    }
+  },
+  {
+    "id": "trinity",
+    "title": "The Trinity",
+    "category": "core-beliefs",
+    "icon": "link",
+    "hook": "Can God be one and also a communion of love?",
+    "summary": "Christians believe there is only one God (Deut 6:4). Yet the New Testament speaks of the Father, the Son and the Holy Spirit as each fully divine. At Jesus' baptism the Son stands in the water, the Spirit descends like a dove, and the Father speaks from heaven (Matt 3:16-17). Jesus sends his followers to baptize “in the name,” a single name, “of the Father and of the Son and of the Holy Spirit” (Matt 28:19). The early church summed this up as the doctrine of the Trinity: one God in three persons, “the same in substance, equal in power and glory” (Westminster Shorter Catechism Q6). The Athanasian Creed adds that we must neither confuse the persons nor divide the one divine being. This is not three gods, nor one God wearing three masks. Protestants receive the Trinity as a mystery revealed in Scripture rather than a theory invented by reason. It means that love is eternal: before the world began, the Father loved the Son (John 17:24).",
+    "philosophy": "Philosophers have long asked how the One relates to the Many. Plotinus pictured all things flowing out from a perfectly simple One. Jewish and Muslim thinkers have often seen the Trinity as a threat to God's oneness. Christian thinkers reply that it is not a contradiction, because God is one in one respect (being) and three in another (persons). Augustine compared the Trinity to the mind's memory, understanding and will, and also to the lover, the beloved and the love that unites them. Richard of St Victor argued that perfect love requires more than one person, and even more than two. Jonathan Edwards described the Son as God's perfect idea of himself and the Spirit as the love flowing between them. The Trinity offers a striking answer to an old question: if God is love, whom did God love before creation? It suggests that relationship is not secondary to reality, but at its very heart.",
+    "keyVerses": ["Deut.6.4", "Matt.3.16-Matt.3.17", "Matt.28.19", "John.1.1", "John.15.26", "John.17.24", "2Cor.13.14", "1Pet.1.2"],
+    "people": ["god_1324", "jesus_905", "holy_spirit_7400", "john_1676"],
+    "related": ["who-is-god", "incarnation", "holy-spirit", "love"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "6", "label": "Westminster Shorter Catechism Q6"},
+      {"creed": "athanasian_creed", "item": "", "label": "Athanasian Creed"},
+      {"creed": "belgic_confession_of_faith", "item": "8", "label": "Belgic Confession Art. 8 (The Trinity)"}
+    ],
+    "reflect": [
+      "What difference would it make if the source of everything were not a solitary mind but a communion of love?",
+      "Why might it matter that the Trinity was received from Scripture rather than invented as an explanation?",
+      "Where in your own life do you experience a unity that does not erase difference?"
+    ],
+    "bridge": {
+      "concept": "Trimurti and Saccidananda",
+      "tradition": "Hindu (Puranic and Vedantic)",
+      "resonance": "Popular comparisons often set the Trinity beside the Trimurti of Brahma, Vishnu and Shiva. A more fruitful parallel is the Vedantic description of Brahman as Saccidananda: being, consciousness and bliss. Indian Christian thinkers such as Brahmabandhab Upadhyay wrote hymns to the Trinity as Saccidananda, seeing in this threefold name a sign that India had long sensed that ultimate reality is not a bare, empty unity, but a fullness of life, knowledge and joy.",
+      "difference": "The Trimurti is a common false equivalence. It divides cosmic functions (creating, preserving, destroying) among three deities or forms, and in practice Vaishnavas and Shaivas each honour their own Lord as supreme. The Trinity is not a division of labour: Father, Son and Spirit act together in every work. Protestants believe God is three co-equal, co-eternal persons sharing one undivided being, eternally related in love, not three gods or three modes of one god. Even Saccidananda names aspects of one reality, not persons who love one another.",
+      "invitation": "Ask whether the deepest reality is more like a single light or like a love shared between persons."
+    }
+  },
+  {
+    "id": "incarnation",
+    "title": "The Incarnation",
+    "category": "core-beliefs",
+    "icon": "baby",
+    "hook": "What if God did not only send a message but came himself?",
+    "summary": "The incarnation (from the Latin for “becoming flesh”) is the Christian belief that the eternal Son of God became a real human being, Jesus of Nazareth, without ceasing to be God. “The Word became flesh and made His dwelling among us” (John 1:14). He was conceived by the Holy Spirit and born of the virgin Mary (Luke 1:35), grew up in an ordinary family, worked with his hands, felt hunger and grief, and was “tempted in every way that we are, yet was without sin” (Heb 4:15). The Council of Chalcedon (AD 451) confessed him as “truly God and truly man,” one person in two natures, “without confusion, without change, without division, without separation.” Protestants hold this firmly, because only one who is both God and man could reconcile God and humanity (Heidelberg Catechism Q15-18; 1 Tim 2:5). Paul describes the Son humbling himself, “taking the form of a servant” (Phil 2:7). The incarnation means God knows our life from the inside.",
+    "philosophy": "Kierkegaard called the incarnation the absolute paradox: the eternal entering time, the infinite becoming a single, finite individual. He believed it offends reason and must be met with faith rather than proof. Centuries earlier, Anselm asked in Why God Became Man whether the incarnation was necessary, and argued that only one who is both God and man could make satisfaction for human sin. Greek philosophy had often treated matter as lower than spirit; the incarnation overturned this by claiming that God united himself to a body. Athanasius argued that God's Son became human so that humans might share in the divine life (2 Pet 1:4). Many modern critics, following the Enlightenment, regard the idea as myth. Christians answer that it rests on historical claims about a real person, open to investigation. The deeper question remains: what kind of God would choose to be laid in a manger and to die on a cross?",
+    "keyVerses": ["Isa.7.14", "Luke.1.30-Luke.1.35", "John.1.14", "Phil.2.5-Phil.2.8", "Col.2.9", "Heb.2.14-Heb.2.17", "Heb.4.15", "1Tim.2.5"],
+    "people": ["jesus_905", "mary_1938", "joseph_1715", "john_1677", "paul_2479"],
+    "related": ["trinity", "atonement", "solus-christus", "humility"],
+    "creeds": [
+      {"creed": "chalcedonian_definition", "item": "", "label": "Chalcedonian Definition"},
+      {"creed": "westminster_shorter_catechism", "item": "21", "label": "Westminster Shorter Catechism Q21"},
+      {"creed": "belgic_confession_of_faith", "item": "18", "label": "Belgic Confession Art. 18 (The Incarnation)"}
+    ],
+    "reflect": [
+      "What does it mean to you that God may have known hunger, tiredness and grief from the inside?",
+      "Why might it matter whether Jesus was fully human, and not only appeared to be?",
+      "If God came in humility rather than in power, what does that suggest about his character?"
+    ],
+    "bridge": {
+      "concept": "Avatara and Incarnation",
+      "tradition": "Hindu (Vaishnava)",
+      "resonance": "The avatara, literally “descent,” is one of Hinduism's most moving ideas. In the Gita, Krishna says that whenever righteousness declines, he comes forth age after age to protect the good and restore dharma (4.7-8). Vishnu descends as Rama, as Krishna and in other forms. Both traditions affirm that God is not distant or indifferent, but comes down into the world to rescue it, taking a form that human beings can see, love and follow.",
+      "difference": "Avataras are many and recurring; the incarnation happened once for all and is never repeated (Heb 9:26). Many Vaishnava teachers hold that an avatara's body is not made of ordinary matter. Christians insist that Jesus took real human flesh and a human soul, and that he remains human forever, even now in his risen body. Protestants believe he came not chiefly to destroy evildoers but to die for them, bearing their sin. The incarnation is a permanent union of God and humanity in one person.",
+      "invitation": "Ask what it would mean for God not just to appear as a man but to become one forever."
+    }
+  },
+  {
+    "id": "sin-and-the-fall",
+    "title": "Sin and the Fall",
+    "category": "core-beliefs",
+    "icon": "leaf",
+    "hook": "Why do we do the very things we hate?",
+    "summary": "Genesis 3 tells how the first humans, created good, listened to the serpent's question, “Did God really say...?” and reached for the forbidden fruit. Their first instinct afterward was to hide, and God's first words were a search: “Where are you?” (Gen 3:9). Protestants believe that sin is not merely breaking a rule but turning away from God himself, seeking to be our own masters. The Westminster Shorter Catechism defines it as “any want of conformity unto, or transgression of, the law of God” (Q14). Through Adam, sin and death spread to all people (Rom 5:12), so that we are born with a bent toward self (Ps 51:5). This is called original sin. The Reformers also taught total depravity: not that people are as bad as they could be, but that sin touches every part of us, mind, will and desires. Paul describes the inner struggle: “what I want to do, I do not do. But what I hate, I do” (Rom 7:15). The diagnosis is sober, but it prepares for a cure.",
+    "philosophy": "Is evil something we do, or something we are? Plato thought wrongdoing came mainly from ignorance: no one does wrong willingly if they truly know the good. Augustine disagreed from experience. He remembered stealing pears as a boy, not from hunger, but for the thrill of doing what was forbidden. He concluded that the will itself is disordered, loving lesser things more than God. Kant spoke of a radical evil in human nature, a tendency to put self-love above the moral law. G. K. Chesterton remarked that original sin is the one Christian doctrine that can be confirmed by simply looking around. Modern psychology describes bias and self-deception. The biblical doctrine of sin is bad news, but it carries a strange dignity: it treats us as responsible agents rather than mere products of our environment, and it explains why education and progress alone have never made humanity good.",
+    "keyVerses": ["Gen.3.1-Gen.3.9", "Ps.51.1-Ps.51.5", "Isa.59.2", "Jer.17.9", "Rom.3.10-Rom.3.12", "Rom.3.23", "Rom.5.12", "Rom.7.15-Rom.7.25"],
+    "people": ["adam_78", "eve_1231", "cain_533", "david_994", "paul_2479"],
+    "related": ["human-nature", "atonement", "forgiveness", "sola-gratia", "evil-and-suffering"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "14", "label": "Westminster Shorter Catechism Q14"},
+      {"creed": "heidelberg_catechism", "item": "7", "label": "Heidelberg Catechism Q7"},
+      {"creed": "westminster_confession_of_faith", "item": "6", "label": "Westminster Confession of Faith 6 (Of the Fall of Man, of Sin)"}
+    ],
+    "reflect": [
+      "Have you ever done something you knew was wrong mainly because it was forbidden?",
+      "Why do you think the first human response to wrongdoing in Genesis is to hide?",
+      "Is your deepest problem that you do not know enough, or that you do not love rightly?"
+    ],
+    "bridge": {
+      "concept": "Avidya, Desire and the Gita's Question",
+      "tradition": "Hindu (Vedanta and the Bhagavad Gita)",
+      "resonance": "In the Gita, Arjuna asks a question Paul could have asked: what drives a person to do wrong, as if against their own will, as though forced? Krishna answers that it is desire and anger, born of passion, the great enemy that clouds wisdom (3.36-37). Both traditions see wrongdoing as a power that enslaves from within, rooted in disordered desire (Jas 1:14-15), and both recognize that good intentions alone cannot easily break it.",
+      "difference": "Vedanta often names the deepest human problem as avidya, ignorance of our true nature, so the cure is liberating knowledge. Protestants believe the root problem is not ignorance but rebellion: sin is personal, committed against a holy God (Ps 51:4), and it brings real guilt, not only bondage. It is also inherited and universal through Adam, not built up life by life as karma. So the cure is not chiefly insight or discipline, but forgiveness through Christ and a new heart given by the Spirit (Ezek 36:26).",
+      "invitation": "Consider whether what you most need is to see more clearly, or to be forgiven and changed."
+    }
+  },
+  {
+    "id": "covenant",
+    "title": "Covenant",
+    "category": "core-beliefs",
+    "icon": "scroll",
+    "hook": "What does it mean for God to bind himself by a promise?",
+    "summary": "A covenant is a solemn, binding relationship sealed by promises. The Bible's story is shaped by covenants God makes with humanity: with Noah, never again to destroy the earth by flood (Gen 9); with Abraham, to bless “all the families of the earth” through his family (Gen 12:3); with Israel at Sinai, to make them “My treasured possession” (Exod 19:5); and with David, to establish his throne forever (2 Sam 7:16). In Genesis 15, God alone passes between the pieces of the sacrifice, taking the whole weight of the promise upon himself. The prophets foresaw a new covenant in which God would write his law on human hearts (Jer 31:31-34). At the Last Supper Jesus said, “This cup is the new covenant in My blood” (Luke 22:20). Protestant theology, especially in the Reformed tradition, reads the whole Bible as one unfolding covenant of grace. Its refrain is God's promise, “I will be their God, and they will be My people” (Jer 31:33), kept in Christ.",
+    "philosophy": "Covenant answers a philosophical question: what can ground a relationship between unequal parties? The Westminster Confession observes that the distance between God and creatures is so great that we could never enjoy him except by his “voluntary condescension,” expressed by way of covenant (7.1). A covenant is neither a mere contract between equals nor an impersonal law that runs automatically. It is a personal pledge. The idea shaped Western political thought through Puritan church covenants and, in secular form, through the social contract theories of Hobbes and Locke. Philosophers since Hume have puzzled over how mere words can create real obligations. Nietzsche described the human being as the animal with the right to make promises, a creature able to bind its future self. In the Bible, God's faithfulness to his own word is the foundation of history. Covenant means that God has bound his future to his people.",
+    "keyVerses": ["Gen.9.11-Gen.9.13", "Gen.12.1-Gen.12.3", "Gen.15.17-Gen.15.18", "Exod.19.5-Exod.19.6", "2Sam.7.12-2Sam.7.16", "Jer.31.31-Jer.31.34", "Luke.22.20", "Heb.8.6"],
+    "people": ["noah_2210", "abraham_58", "moses_2108", "david_994", "jeremiah_853"],
+    "related": ["kingdom-of-god", "atonement", "sola-gratia", "church"],
+    "creeds": [
+      {"creed": "westminster_confession_of_faith", "item": "7", "label": "Westminster Confession of Faith 7 (Of God's Covenant with Man)"},
+      {"creed": "westminster_shorter_catechism", "item": "20", "label": "Westminster Shorter Catechism Q20"}
+    ],
+    "reflect": [
+      "Whose promises do you rest your life on, and what makes a promise trustworthy?",
+      "What do you make of God alone walking between the pieces in Genesis 15?",
+      "How is a covenant different from a contract in your own relationships?"
+    ],
+    "bridge": {
+      "concept": "Sharanagati and Rama's Vow of Refuge",
+      "tradition": "Hindu (Sri Vaishnava)",
+      "resonance": "Sri Vaishnavas treasure divine promises as the ground of salvation. In the Ramayana, when Vibhishana comes seeking shelter, Rama vows to protect anyone who comes to him even once and says, “I am yours.” In the Gita, Krishna promises the one who takes refuge in him alone that he will free them from all sins, and tells them not to grieve (18.66). Both traditions hold that God binds himself by his word, and that the soul's security rests on that promise rather than on its own strength.",
+      "difference": "Biblical covenant is not only a promise to individuals but a relationship with a people, worked out across many generations of real history, with laws, signs, sacrifices and prophets. Protestants believe all the covenants converge in Jesus, whose blood seals the new covenant (Luke 22:20). The promise is kept not only by God's willingness to protect, but by God himself bearing the curse of a broken covenant: “Christ redeemed us from the curse of the law by becoming a curse for us” (Gal 3:13).",
+      "invitation": "Ask what a promise would have to cost the one who makes it before you could fully rest on it."
+    }
+  },
+  {
+    "id": "atonement",
+    "title": "The Atonement",
+    "category": "core-beliefs",
+    "icon": "cross",
+    "hook": "Can someone else carry what I owe?",
+    "summary": "Atonement means “at-one-ment”: the reconciling of sinners to God. Protestants believe that at the cross Jesus Christ did what we could never do for ourselves. Isaiah foresaw a servant who “was pierced for our transgressions” and on whom fell “the punishment that brought us peace” (Isa 53:5). Jesus said he came “to give His life as a ransom for many” (Mark 10:45). Paul writes, “God made Him who knew no sin to be sin on our behalf, so that in Him we might become the righteousness of God” (2 Cor 5:21). The Reformers emphasized penal substitution: Christ bore the penalty our sins deserved, so that God is both just and the one who justifies believers (Rom 3:26). The New Testament also presents the cross as victory over evil and as the supreme revelation of love (1 John 4:10). This was not an angry Father punishing an unwilling Son. The Son gave himself freely, and through the cross the Father “proves His love for us” (Rom 5:8). Christ's sacrifice was offered “once for all” (Heb 10:10).",
+    "philosophy": "Is it just for one person to suffer in place of another? Critics, from Faustus Socinus in the sixteenth century to many modern philosophers, have objected that guilt cannot be transferred like money. Anselm framed the question in terms of honour and debt: humanity owed a debt only God could pay, so God became man to pay it. Abelard stressed instead the cross as a moving display of love that softens hard hearts. The Reformers held that Christ's union with his people makes substitution coherent: he is not a random third party but their representative head, as Adam was (Rom 5). Dostoevsky's novels explore how innocent suffering can break the cycle of guilt and revenge. The modern thinker René Girard argued that the cross unmasks the scapegoating that lies behind so much human violence. For Christians, the cross is where the hardest questions of justice and mercy are not avoided but answered.",
+    "keyVerses": ["Lev.16.21-Lev.16.22", "Isa.53.4-Isa.53.6", "Mark.10.45", "Rom.3.23-Rom.3.26", "2Cor.5.21", "1Pet.2.24", "1John.4.10", "Heb.10.10-Heb.10.14"],
+    "people": ["jesus_905", "aaron_1", "isaiah_617", "paul_2479", "peter_2745"],
+    "related": ["solus-christus", "justice-and-mercy", "forgiveness", "sin-and-the-fall", "covenant"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "37", "label": "Heidelberg Catechism Q37"},
+      {"creed": "belgic_confession_of_faith", "item": "21", "label": "Belgic Confession Art. 21 (The Atonement)"},
+      {"creed": "westminster_shorter_catechism", "item": "25", "label": "Westminster Shorter Catechism Q25"}
+    ],
+    "reflect": [
+      "Have you ever been released from a debt or a consequence because someone else paid it?",
+      "Why do you think the cross is described as both justice and love at once?",
+      "Is a love that pays a debt it did not owe unjust, or the deepest kind of justice?"
+    ],
+    "bridge": {
+      "concept": "Yajna, Prayashchitta and the Purusha Sukta",
+      "tradition": "Hindu (Vedic and Dharmashastra)",
+      "resonance": "Vedic religion understood sacrifice (yajna) as central to the order of the world, and the Dharmashastras prescribe prayashchitta, rites of expiation, recognizing that wrongdoing needs a real remedy and not only regret. The Purusha Sukta (Rigveda 10.90) even imagines the cosmos arising from the sacrifice of a primal Person. Both traditions sense that something costly must be given for the world to be set right; Leviticus also teaches that “it is the blood that makes atonement for the soul” (Lev 17:11).",
+      "difference": "Some writers have claimed that the Vedas foretell Christ, but this is not a fair reading of either tradition. The Purusha Sukta is a story of how the world and its social orders came to be, not of sin forgiven. And in classical karma theory, the fruit of an act belongs to the one who did it. Protestants believe that the sinless Son of God freely bore the guilt of others in a real death under Pontius Pilate, a once-for-all sacrifice that ends all other sacrifices (Heb 10:10-14).",
+      "invitation": "Consider whether real forgiveness always costs someone something, and who bears that cost."
+    }
+  },
+  {
+    "id": "resurrection",
+    "title": "The Resurrection",
+    "category": "core-beliefs",
+    "icon": "sunrise",
+    "hook": "What if the tomb really was empty?",
+    "summary": "All four Gospels report that on the third day after his crucifixion, Jesus' tomb was found empty and that he appeared alive to his followers. “He is not here; He has risen!” (Luke 24:6). He was not a ghost: he invited them to touch his hands and feet, and he ate fish in front of them (Luke 24:39-43). Paul, writing perhaps twenty-five years later, lists witnesses, including “more than five hundred brothers at once, most of whom are still living” (1 Cor 15:6). Protestants believe the resurrection is a real, bodily event in history, not a symbol or a feeling. Paul stakes everything on it: “if Christ has not been raised, your faith is futile” (1 Cor 15:17). The resurrection declares Jesus to be the Son of God (Rom 1:4), shows that his sacrifice was accepted, and is the “firstfruits” of the resurrection of all believers (1 Cor 15:20). It also begins new life now: believers are raised with Christ to “walk in newness of life” (Rom 6:4).",
+    "philosophy": "Hume argued that no testimony can establish a miracle, since our uniform experience of nature will always outweigh any report. Christian philosophers reply that this assumes the conclusion: if God exists, uniform experience does not rule out his acting in a unique way at a unique moment. Historians debate how best to explain the empty tomb, the appearances, and the sudden change of frightened disciples into bold witnesses willing to die. Pascal observed that the apostles were either deceivers or deceived, and that both are hard to believe. The apostle Thomas is a patron of honest doubt: he refused to believe without evidence, and Jesus met him with evidence (John 20:24-29). The resurrection also matters philosophically because it claims that the material world, including the body, will be redeemed rather than discarded. It is the hinge on which the whole Christian picture of reality turns.",
+    "keyVerses": ["Matt.28.1-Matt.28.10", "Luke.24.36-Luke.24.43", "John.20.24-John.20.29", "Acts.2.32", "Rom.1.4", "Rom.6.4", "1Cor.15.3-1Cor.15.8", "1Cor.15.17-1Cor.15.20"],
+    "people": ["jesus_905", "mary_1943", "peter_2745", "thomas_2851", "paul_2479"],
+    "related": ["death-and-hope", "new-creation", "atonement", "faith-and-doubt"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "45", "label": "Heidelberg Catechism Q45"},
+      {"creed": "westminster_larger_catechism", "item": "52", "label": "Westminster Larger Catechism Q52"},
+      {"creed": "apostles_creed", "item": "", "label": "Apostles' Creed"}
+    ],
+    "reflect": [
+      "What kind of evidence would you need to take the resurrection seriously as history?",
+      "Why do you think Paul says faith is futile if Christ was not raised?",
+      "If the resurrection happened, what would it change about how you see your own body and future?"
+    ],
+    "bridge": null
+  },
+  {
+    "id": "holy-spirit",
+    "title": "The Holy Spirit",
+    "category": "core-beliefs",
+    "icon": "flame",
+    "hook": "Can God live not only above us but within us?",
+    "summary": "Protestants believe the Holy Spirit is the third person of the Trinity, “together with the Father and the Son, true and eternal God” (Heidelberg Catechism Q53). He is not an impersonal force but one who teaches, guides, grieves and prays. In Hebrew and Greek the word for spirit also means breath or wind. The Spirit hovered over the waters at creation (Gen 1:2) and gave life and gifts to prophets and craftsmen. The prophets promised a day when God would put his Spirit within his people and give them a new heart (Ezek 36:26-27; Joel 2:28). Jesus promised “another Advocate” (John 14:16) who would “guide you into all truth” (John 16:13). At Pentecost the Spirit came upon the church with wind and fire (Acts 2). The Spirit unites believers to Christ, works faith in their hearts, assures them they are God's children (Rom 8:16), helps them pray (Rom 8:26), and grows in them “love, joy, peace” and the rest of his fruit (Gal 5:22-23).",
+    "philosophy": "Christian thinkers have long wrestled with how God can be both transcendent, far above the world, and immanent, present within it. Augustine wrote that God was more inward to him than his own inmost self, and higher than his highest. The Holy Spirit is the Christian name for this inward presence. Hegel used the word Spirit (Geist) for history itself coming to self-awareness, a philosophical idea quite different from the personal Spirit of the Bible. Luther insisted that the Spirit works through outward means, the Word and the sacraments, which guards against private visions that no one can test. Jonathan Edwards studied the revivals of his day and asked how to tell a true work of the Spirit from mere emotion. His answer was changed character: humility, love and holiness. The Spirit raises a deep question: is true goodness something we achieve, or something that grows in us as a gift?",
+    "keyVerses": ["Gen.1.2", "Ezek.36.26-Ezek.36.27", "Joel.2.28-Joel.2.29", "John.14.16-John.14.17", "John.16.13", "Acts.2.1-Acts.2.4", "Rom.8.14-Rom.8.16", "Gal.5.22-Gal.5.23"],
+    "people": ["holy_spirit_7400", "jesus_905", "peter_2745", "ezekiel_1237", "joel_1660"],
+    "related": ["trinity", "church", "prayer", "sola-gratia"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "53", "label": "Heidelberg Catechism Q53"},
+      {"creed": "nicene_creed", "item": "", "label": "Nicene Creed"},
+      {"creed": "belgic_confession_of_faith", "item": "11", "label": "Belgic Confession Art. 11 (The Deity of the Holy Spirit)"}
+    ],
+    "reflect": [
+      "Which fruit of the Spirit in Galatians 5:22-23 do you most wish you had more of?",
+      "Is goodness, for you, mostly an effort or something you have received?",
+      "If God were willing to live within you, what would you want him to change first?"
+    ],
+    "bridge": {
+      "concept": "Antaryamin, the Inner Controller",
+      "tradition": "Hindu (Upanishads and Vishishtadvaita)",
+      "resonance": "The Brihadaranyaka Upanishad speaks of the antaryamin, the inner controller who dwells within the earth, within all beings and within the self, unknown by the self, yet guiding it from within (3.7). Ramanuja made this teaching central to his theology. Christians likewise confess a God who dwells within, closer to us than we are to ourselves. Hindu thought also links breath (prana) with life, much as the Hebrew ruach joins wind, breath and Spirit (Gen 2:7; John 3:8).",
+      "difference": "In Upanishadic teaching the antaryamin indwells every being by nature. Protestants believe the Spirit is present everywhere, but dwells in believers in a new way, as a gift received through Christ (Acts 2:38). He is a distinct person of the Trinity, not simply the inner aspect of one universal Self. His work is to convict of sin, unite us to Christ and remake our character, so that his indwelling is not a fact to be realized but a relationship that transforms.",
+      "invitation": "Consider the difference between discovering God already within you and welcoming God as a guest who changes the house."
+    }
+  },
+  {
+    "id": "kingdom-of-god",
+    "title": "The Kingdom of God",
+    "category": "core-beliefs",
+    "icon": "crown",
+    "hook": "What would the world look like if God were truly king?",
+    "summary": "Jesus began his public ministry with these words: “The time is fulfilled, and the kingdom of God is near. Repent and believe in the gospel!” (Mark 1:15). The kingdom of God means God's reign, his rightful rule over all things, breaking into a world that has rebelled against him. The Old Testament longed for it: Daniel saw “one like a son of man” receive a kingdom “that will never be destroyed” (Dan 7:13-14). Jesus taught that this kingdom was already arriving in him, through his healings, his welcome of sinners and his victory over evil. Yet it comes quietly, like a mustard seed or yeast in dough (Matt 13:31-33), and it is “not of this world” (John 18:36), not won by violence. Protestants describe the kingdom as “already and not yet”: present wherever Christ reigns in human hearts and communities, and coming in fullness when he returns. Jesus taught his followers to pray, “Your kingdom come, Your will be done, on earth as it is in heaven” (Matt 6:10).",
+    "philosophy": "What is the best form of rule? Plato imagined a republic led by philosopher-kings. Augustine, writing as Rome fell, described two cities built by two loves: the earthly city by love of self, the heavenly city by love of God. No human empire, he warned, should be confused with God's kingdom. Luther later spoke of two kingdoms, two ways God governs: through the gospel in the church, and through law and the sword in the state. Kant imagined a kingdom of ends, a moral community in which every person is treated as an end and never merely as a means. Modern revolutions have often tried to build heaven on earth, sometimes with terrible results. The biblical kingdom offers both hope and caution. It insists that justice and peace matter now, yet it warns that the kingdom finally comes as God's gift, under a king who reigns from a cross.",
+    "keyVerses": ["Dan.7.13-Dan.7.14", "Mark.1.14-Mark.1.15", "Matt.6.10", "Matt.13.31-Matt.13.33", "Luke.17.20-Luke.17.21", "John.18.36", "Rom.14.17", "Rev.11.15"],
+    "people": ["jesus_905", "daniel_975", "david_994", "john_1676"],
+    "related": ["church", "new-creation", "justice-and-mercy", "time-and-history", "covenant"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "102", "label": "Westminster Shorter Catechism Q102"},
+      {"creed": "heidelberg_catechism", "item": "123", "label": "Heidelberg Catechism Q123"},
+      {"creed": "westminster_shorter_catechism", "item": "26", "label": "Westminster Shorter Catechism Q26"}
+    ],
+    "reflect": [
+      "Why do you think Jesus compared God's kingdom to something as small as a mustard seed?",
+      "What is the difference between a kingdom built by force and one that grows by love?",
+      "What would change in your own small sphere if you prayed, and meant, “Your kingdom come”?"
+    ],
+    "bridge": {
+      "concept": "Ramarajya, the Reign of Rama",
+      "tradition": "Hindu (Ramayana tradition)",
+      "resonance": "Ramarajya, the righteous reign of Rama, has long shaped Indian hopes for a just society, where the king rules by dharma, the weak are protected and no one suffers needlessly. Gandhi used Ramarajya as a picture of a moral and compassionate social order. Both traditions long for a rule in which justice and peace meet, grounded not in human ambition but in divine righteousness, and both judge earthly rulers by that ideal.",
+      "difference": "Ramarajya is often remembered as a golden age of the past, to be restored. The kingdom of God is not mainly a past ideal or a political programme, but God's reign arriving through Jesus, present now in hidden form and coming in fullness at his return. It is entered by repentance and faith, belongs to “the poor in spirit” (Matt 5:3), and its king rules through self-giving love. Protestants believe no nation can claim to be that kingdom; it gathers people from every nation.",
+      "invitation": "Ask whether the ideal society you hope for lies behind us, ahead of us, or in some way already among us."
+    }
+  },
+  {
+    "id": "church",
+    "title": "The Church",
+    "category": "core-beliefs",
+    "icon": "church",
+    "hook": "Can faith be lived alone?",
+    "summary": "The church is not first a building but a people. The Greek word ekklesia means an assembly of those called out. Jesus promised, “I will build My church, and the gates of Hades will not prevail against it” (Matt 16:18). Paul calls the church “the body of Christ,” with each believer a member (1 Cor 12:27) and Christ as its head. From the start, believers “devoted themselves to the apostles' teaching and to the fellowship, to the breaking of bread and to prayer” (Acts 2:42). Protestants believe the true church is marked by the pure preaching of the gospel, the right use of the sacraments of baptism and the Lord's Supper, and loving discipline (Belgic Confession Art. 29). The Reformers also stressed the priesthood of all believers (1 Pet 2:9): every Christian has direct access to God through Christ and a calling to serve others. The church gathers people of every nation, class and background, for “you are all one in Christ Jesus” (Gal 3:28). It is imperfect, yet it is loved by Christ as his bride.",
+    "philosophy": "Modern Western culture often treats religion as a private matter between the individual and God. Kierkegaard, fiercely critical of the comfortable state church of Denmark, stressed the single individual standing before God. Yet the Bible pictures salvation as the creation of a new community. Bonhoeffer, who led an underground seminary under the Nazis, taught that Christian community is a gift of grace, not an ideal we construct, and that those who love their dream of community more than the real people in it will end up destroying it. Augustine described the church on earth as a mixed field of wheat and weeds (Matt 13:24-30), and the Reformers distinguished the visible church from the invisible church known fully only to God. The church makes a bold claim: that a people formed not by blood, nation or interest, but by shared grace, can show the world a new way of being human.",
+    "keyVerses": ["Matt.16.18", "Acts.2.42-Acts.2.47", "1Cor.12.27", "Gal.3.28", "Eph.2.19-Eph.2.22", "Eph.4.4-Eph.4.6", "1Pet.2.9-1Pet.2.10", "Heb.10.24-Heb.10.25"],
+    "people": ["peter_2745", "paul_2479", "barnabas_1722", "lydia_1837", "jesus_905"],
+    "related": ["holy-spirit", "kingdom-of-god", "covenant", "love"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "54", "label": "Heidelberg Catechism Q54"},
+      {"creed": "belgic_confession_of_faith", "item": "29", "label": "Belgic Confession Art. 29 (The Marks of the True Church)"},
+      {"creed": "westminster_confession_of_faith", "item": "25", "label": "Westminster Confession of Faith 25 (Of the Church)"}
+    ],
+    "reflect": [
+      "Where have you experienced a community that made you more truly yourself?",
+      "Why might a faith lived entirely alone be harder to keep honest?",
+      "What would it take for a community to hold together people who would never otherwise meet?"
+    ],
+    "bridge": {
+      "concept": "Satsang and the Bhakti Community",
+      "tradition": "Hindu (Bhakti traditions)",
+      "resonance": "Hindu devotional traditions have long taught the value of satsang, the company of the good, where seekers gather to sing, hear sacred stories and encourage one another. Bhakti saints from the Alvars to Kabir and Tukaram drew devotees of many castes into shared worship, and Sri Vaishnavas teach that serving fellow devotees honours the Lord himself. Christians likewise sing together, hear Scripture together, and believe that serving others is serving Christ (Matt 25:40).",
+      "difference": "Satsang is a gathering of seekers around shared devotion or a teacher. Protestants believe the church is something more: a people called and formed by God, united to Christ as one body, with Christ as its living head. Its marks are the Word rightly preached and the sacraments of baptism and the Lord's Supper. Membership rests not on spiritual achievement or on birth, but on grace received by faith, which makes the church one family across every human boundary.",
+      "invitation": "Ask what makes a community truly one: shared practice, shared teacher, or a shared gift received together."
+    }
+  },
+  {
+    "id": "new-creation",
+    "title": "New Creation",
+    "category": "core-beliefs",
+    "icon": "globe",
+    "hook": "Will this world be thrown away or made new?",
+    "summary": "The Bible ends where it began, with heaven and earth, but now renewed. John sees “a new heaven and a new earth” and hears God say, “Behold, I make all things new” (Rev 21:1, 5). Protestants believe the final Christian hope is not an escape from the material world into a purely spiritual heaven, but the renewal of creation itself. Isaiah foresaw a world where wolf and lamb live together and “the earth will be full of the knowledge of the LORD” (Isa 11:6-9; 65:17). Paul says that creation itself is groaning and “will be set free from its bondage to decay” (Rom 8:21-22). At the centre of the new creation is God's presence: “the dwelling place of God is with man” (Rev 21:3), and there will be no more death, mourning or pain (Rev 21:4). This future has already begun. Anyone who is in Christ “is a new creation” (2 Cor 5:17), a first taste of the world to come. The Christian story ends not in a cycle but in a wedding feast (Rev 19:9).",
+    "philosophy": "Many philosophies have treated matter as a prison or a shadow. Plato's allegory of the cave pictured the visible world as flickering images, with true reality elsewhere. Gnostic movements in the early church taught that the material world was the mistake of a lesser god. Against them, church fathers such as Irenaeus insisted that God's plan is to redeem the very creation he made. C. S. Lewis imagined heaven as more solid and real than earth, not less, so that our present world is the shadow. This vision has ethical weight. If creation is to be renewed rather than discarded, then caring for the earth, for bodies and for culture is not wasted effort. The new creation also answers a worry about eternity: it will not be static or dull, but the fulfilment of everything good in this world, purified and made whole.",
+    "keyVerses": ["Isa.11.6-Isa.11.9", "Isa.65.17-Isa.65.19", "Rom.8.19-Rom.8.23", "2Cor.5.17", "2Pet.3.13", "Rev.21.1-Rev.21.5", "Rev.22.1-Rev.22.5"],
+    "people": ["isaiah_617", "paul_2479", "john_1677", "jesus_905"],
+    "related": ["resurrection", "kingdom-of-god", "death-and-hope", "time-and-history"],
+    "creeds": [
+      {"creed": "belgic_confession_of_faith", "item": "37", "label": "Belgic Confession Art. 37 (The Last Judgment)"},
+      {"creed": "heidelberg_catechism", "item": "58", "label": "Heidelberg Catechism Q58"},
+      {"creed": "nicene_creed", "item": "", "label": "Nicene Creed"}
+    ],
+    "reflect": [
+      "What in this world do you most hope will be not destroyed but made new?",
+      "How might belief in a renewed earth change the way you treat the present one?",
+      "Does an eternity of God's presence sound to you more like rest, or like endless discovery?"
+    ],
+    "bridge": {
+      "concept": "Vaikuntha, the Eternal Realm",
+      "tradition": "Hindu (Sri Vaishnava)",
+      "resonance": "Sri Vaishnava theology speaks of two spheres of God's glory: the material world of change and divine play (lila-vibhuti), and the eternal realm of Vaikuntha (nitya-vibhuti), untouched by decay, where liberated souls live in the joyful presence of Vishnu and Lakshmi. Both traditions envision a final state of perfect bliss where God is seen, served and enjoyed, free from sorrow and death (Rev 22:3-4).",
+      "difference": "In this Hindu picture, the liberated soul goes to an eternal realm beyond matter, while the material world continues through cycles of creation and dissolution. Protestants believe the material creation itself will be healed and renewed. Heaven is not finally a place we go to while the earth is left behind; rather, God's dwelling comes down to earth (Rev 21:2-3), and resurrected people live in a renewed, physical world. The goal is not escape from creation but its restoration.",
+      "invitation": "Consider whether your hope is to leave this world behind or to see it finally become what it was meant to be."
+    }
+  },
+  {
+    "id": "sola-scriptura",
+    "title": "Scripture Alone",
+    "category": "five-solas",
+    "icon": "book-open",
+    "hook": "Who has the final word: tradition, reason, or Scripture?",
+    "summary": "Sola Scriptura, Latin for “Scripture alone,” was the formal principle of the Reformation. It means that the Bible is the only infallible rule for faith and life, the final authority by which all teachers, traditions and councils must be tested. Protestants do not reject tradition, reason or the creeds; they value them highly, as the creed links in this app show. But they hold that these are servants under Scripture, not masters over it. The Westminster Confession says the “Supreme Judge” in all religious controversies is “the Holy Spirit speaking in the Scripture” (1.10). This rests on Scripture's own claims: “All Scripture is God-breathed” (2 Tim 3:16), and its prophets “spoke from God as they were carried along by the Holy Spirit” (2 Pet 1:21). Jesus rebuked those who would “nullify the word of God by the tradition you have handed down” (Mark 7:13). At the Diet of Worms in 1521, Luther refused to recant unless convinced by Scripture and plain reason, for his conscience was captive to the Word of God.",
+    "philosophy": "Every system of thought must answer the question of authority: on what ground do we stand when we claim to know? Some ground knowledge in reason (rationalism), others in experience (empiricism), others in a community's tradition. The Reformers argued that in matters of salvation, human reason and church tradition are both fallible and need correcting by a word from outside ourselves. Critics, from sixteenth-century Catholic opponents to modern scholars, ask who decides what Scripture means, since Protestants have divided into many churches. Protestants reply that Scripture's central teachings are clear enough for ordinary readers (the doctrine of perspicuity), that Scripture interprets Scripture, and that the Spirit gives light to humble readers. William Tyndale hoped that even a boy driving a plough would come to know the Bible better than the clergy did. Sola Scriptura gave rise to translation, literacy and a habit of testing every claim, as the Bereans did (Acts 17:11).",
+    "keyVerses": ["Ps.119.105", "Isa.40.8", "Matt.4.4", "Mark.7.8-Mark.7.13", "Acts.17.11", "2Tim.3.14-2Tim.3.17", "2Pet.1.20-2Pet.1.21", "Heb.4.12"],
+    "people": ["jesus_905", "josiah_1730", "ezra_1245", "timotheus_2863", "paul_2479"],
+    "related": ["truth-and-revelation", "sola-fide", "church", "wisdom"],
+    "creeds": [
+      {"creed": "westminster_confession_of_faith", "item": "1", "label": "Westminster Confession of Faith 1 (Of the Holy Scripture)"},
+      {"creed": "belgic_confession_of_faith", "item": "7", "label": "Belgic Confession Art. 7 (The Sufficiency of Scripture)"},
+      {"creed": "westminster_shorter_catechism", "item": "2", "label": "Westminster Shorter Catechism Q2"}
+    ],
+    "reflect": [
+      "When your own sense of truth conflicts with a sacred text, which do you let correct the other?",
+      "What is the difference between respecting tradition and being ruled by it?",
+      "Why might it matter that ordinary people can read Scripture for themselves?"
+    ],
+    "bridge": {
+      "concept": "Shruti, Smriti and the Guru",
+      "tradition": "Hindu (Mimamsa and Vedanta)",
+      "resonance": "Hindu traditions also distinguish levels of authority. Shruti, “what is heard,” the Vedas and Upanishads, stands above smriti, “what is remembered,” such as the epics, Puranas and law codes, which are trusted where they agree with shruti. Mimamsa and Vedanta hold that scripture (shabda) is a valid source of knowledge about things that perception and reasoning cannot reach. Protestants likewise rank Scripture above tradition, and believe that saving truth must be revealed rather than discovered.",
+      "difference": "Mimamsa thinkers regarded the Vedas as authorless and eternal, and Vedic recitation was traditionally restricted, though bhakti poets sang in the languages of the people. In practice, living gurus and lineages (sampradaya) often carry decisive interpretive weight. Protestants believe the Bible is God's word given through human authors in history, standing above every teacher, tradition and church, including their own. It belongs to all believers, which is why the Reformers translated it into common languages.",
+      "invitation": "Ask who, in your own search for truth, has the final word, and whether you chose that authority or inherited it."
+    }
+  },
+  {
+    "id": "sola-fide",
+    "title": "Faith Alone",
+    "category": "five-solas",
+    "icon": "shield",
+    "hook": "Can you be made right with God by trusting rather than earning?",
+    "summary": "Sola fide, “faith alone,” has been called the material principle of the Reformation, the heart of its message. Protestants believe that sinners are justified, that is, declared righteous before God, not by their good works but only through faith in Jesus Christ. “We maintain that a man is justified by faith apart from works of the law” (Rom 3:28). The pattern goes back to Abraham, who “believed the LORD, and it was credited to him as righteousness” (Gen 15:6), and to Habakkuk: “the righteous will live by faith” (Hab 2:4). Luther, tormented by a guilty conscience, found peace when he understood that “the righteousness of God” in Romans 1:17 is a gift God gives, not a standard we must reach. The Heidelberg Catechism says God credits us with Christ's righteousness “as if I had never had nor committed any sin” (Q60). Faith does not save as a virtue or achievement; it is the empty hand that receives Christ. Yet saving faith is never idle. As James says, faith that does not act “is dead” (Jas 2:17).",
+    "philosophy": "What is faith? Critics such as Nietzsche, and many modern skeptics, define it as believing without evidence, or even against it. The Reformers meant something different. Faith involves knowledge (notitia), agreement that something is true (assensus), and above all personal trust (fiducia), like resting your full weight on a bridge. Kierkegaard described faith as a passionate leap beyond what reason can guarantee. Aquinas, earlier, saw faith as reason's partner rather than its rival. Justification by faith also addresses a deep ethical question: can we ever become good enough to deserve acceptance? Luther described the believer as simul justus et peccator, at the same time righteous and a sinner: fully accepted in Christ while still being changed. This frees a person from the endless, anxious work of justifying themselves, so that they can serve others not to earn love but because they have already received it.",
+    "keyVerses": ["Gen.15.6", "Hab.2.4", "Rom.1.16-Rom.1.17", "Rom.3.28", "Rom.4.4-Rom.4.8", "Gal.2.16", "Phil.3.8-Phil.3.9", "Jas.2.17-Jas.2.18"],
+    "people": ["abraham_58", "david_994", "habakkuk_1334", "paul_2479", "james_719"],
+    "related": ["sola-gratia", "solus-christus", "faith-and-doubt", "atonement"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "60", "label": "Heidelberg Catechism Q60"},
+      {"creed": "westminster_shorter_catechism", "item": "33", "label": "Westminster Shorter Catechism Q33"},
+      {"creed": "westminster_confession_of_faith", "item": "11", "label": "Westminster Confession of Faith 11 (Of Justification)"}
+    ],
+    "reflect": [
+      "Is your sense of being acceptable based on what you do, or on someone you trust?",
+      "Why might a weak faith in a strong Saviour be enough?",
+      "How would you live differently if you never again had to prove your worth?"
+    ],
+    "bridge": {
+      "concept": "Shraddha (Faith)",
+      "tradition": "Hindu (Bhagavad Gita)",
+      "resonance": "The Gita gives great weight to shraddha, faith or trusting conviction. A person is made of their faith, Krishna says; as one's faith is, so one is (17.3). The one who has faith gains wisdom (4.39). Both traditions see faith not as mere opinion but as the orientation of the whole person toward what they trust, shaping character and destiny. Both also recognize that faith can be misdirected, so that everything depends on its object.",
+      "difference": "In the Gita, shraddha qualifies one's practice and shapes what one becomes. Protestants believe justifying faith saves not because of its quality or strength but because of its object: it receives Christ and his righteousness, which God credits to the one who believes (Rom 4:5). Justification is God's legal declaration, not an inner achievement. Even weak faith in a strong Saviour saves, because the righteousness is entirely his. Faith alone justifies, yet true faith always works through love (Gal 5:6).",
+      "invitation": "Consider whether what matters most about faith is how strong it is, or who it rests upon."
+    }
+  },
+  {
+    "id": "sola-gratia",
+    "title": "Grace Alone",
+    "category": "five-solas",
+    "icon": "gift",
+    "hook": "Can you receive what you could never earn?",
+    "summary": "Sola gratia, “grace alone,” means that salvation is entirely a gift of God's undeserved favour, from beginning to end. “For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast” (Eph 2:8-9). Protestants believe that sin leaves humans unable to turn to God by their own power; we were “dead in our trespasses” (Eph 2:5). So God does not merely help those who first help themselves. He takes the initiative: he chooses, calls, gives new birth and grants faith itself (John 6:44; Titus 3:5). The Canons of Dort (1619) describe this new birth as a new creation, a resurrection from the dead that God works in us. Grace does not cancel the human will but renews it, so that people come to Christ “most freely, being made willing by his grace” (Westminster Confession 10.1). If salvation depended even slightly on our merit, “grace would no longer be grace” (Rom 11:6).",
+    "philosophy": "Grace offends a deep human instinct. We want to deserve what we receive, and we dislike being in debt. Nietzsche scorned what he saw as a religion that teaches people to depend rather than to strive. Augustine, by contrast, experienced grace as liberation. Against Pelagius, who taught that people can obey God by their own natural strength, Augustine argued that the will itself must first be healed. Luther's Bondage of the Will (1525), written against Erasmus, argued that a will enslaved to sin cannot free itself. Within Protestantism, Calvinists and Arminians later debated whether grace can be finally resisted. Philosophically, grace challenges a world built entirely on exchange, where everything must be earned or paid for. The gospel claims that at the root of reality lies not a market but a gift, and that gratitude, not pride, is the fitting response both to existence and to salvation.",
+    "keyVerses": ["Deut.7.7-Deut.7.8", "Ezek.36.26", "John.6.44", "Rom.3.23-Rom.3.24", "Rom.11.6", "Eph.2.4-Eph.2.9", "Titus.3.4-Titus.3.7", "1Cor.15.10"],
+    "people": ["paul_2479", "mephibosheth_1999", "jonah_1689"],
+    "related": ["sola-fide", "solus-christus", "freedom-and-providence", "sin-and-the-fall", "covenant"],
+    "creeds": [
+      {"creed": "westminster_confession_of_faith", "item": "10", "label": "Westminster Confession of Faith 10 (Of Effectual Calling)"},
+      {"creed": "canons_of_dort", "item": "3&4", "label": "Canons of Dort, Third and Fourth Heads (Art. 10-12)"},
+      {"creed": "heidelberg_catechism", "item": "21", "label": "Heidelberg Catechism Q21"}
+    ],
+    "reflect": [
+      "Why is it often harder to receive a gift than to earn a reward?",
+      "What would it mean for you if even your faith were a gift?",
+      "Before God, are you more like the monkey that clings or the kitten that is carried, and how would you know?"
+    ],
+    "bridge": {
+      "concept": "The Monkey and the Kitten (Markata-nyaya and Marjara-nyaya)",
+      "tradition": "Hindu (Sri Vaishnava)",
+      "resonance": "After Ramanuja, Sri Vaishnavas came to divide over grace in a debate that closely mirrors the Reformation. The Vadakalai school, following Vedanta Desika, taught the “way of the monkey”: the baby monkey clings to its mother, so the soul must make a real act of surrender (prapatti). The Tenkalai school, following Pillai Lokacharya and Manavala Mamuni, taught the “way of the kitten”: the mother cat carries her helpless kitten, so salvation rests wholly on the Lord's grace. Luther and Erasmus, and later Calvinists and Arminians, argued over the same question.",
+      "difference": "Mainstream Reformed and Lutheran Protestants stand closer to the kitten: grace is sovereign, and even faith is God's gift. But the comparison also reveals a difference. In the Reformation, grace is grounded in a historical act: Christ's death satisfies God's justice for real guilt, so grace is not God overlooking sin but God dealing with it at great cost. Its goal is not release from rebirth but justification, reconciliation with God and the resurrection of the body.",
+      "invitation": "Ask whether grace that costs the giver nothing would still be grace, and what your answer suggests about the cross."
+    }
+  },
+  {
+    "id": "solus-christus",
+    "title": "Christ Alone",
+    "category": "five-solas",
+    "icon": "door-open",
+    "hook": "Is there one way to God, or many?",
+    "summary": "Solus Christus, “Christ alone,” means that Jesus Christ is the only mediator between God and humanity, and that his life, death and resurrection are completely sufficient for salvation. “There is one God, and there is one mediator between God and men, the man Christ Jesus” (1 Tim 2:5). Peter told the authorities in Jerusalem, “Salvation exists in no one else, for there is no other name under heaven given to men by which we must be saved” (Acts 4:12). Jesus himself said, “I am the way and the truth and the life. No one comes to the Father except through Me” (John 14:6). The Reformers stressed this against practices that, in their view, placed other mediators, such as saints, priests or human merits, between the believer and God. The Heidelberg Catechism reasons that either Jesus is not a complete Saviour, or those who trust him find in him all they need (Q30). Because Christ “always lives to intercede” for his people (Heb 7:25), believers may approach God directly and with confidence (Heb 4:16).",
+    "philosophy": "In a world of many religions, the claim that salvation comes through Christ alone can sound arrogant. The philosopher John Hick proposed that all the great faiths are different human responses to one ultimate Reality. Critics note that it quietly replaces the actual beliefs of every religion with a new theory most believers would reject, so it is less humble than it appears. Kierkegaard insisted that Christianity stands or falls with the scandal of one particular person in history. Lesslie Newbigin, a missionary bishop in South India, argued that the gospel is public truth offered to every culture, not a private preference. Protestants differ on the fate of those who never hear of Christ; C. S. Lewis was hopeful about some of them. Yet all agree that whoever is saved is saved through Christ alone. The question is finally one of truth: if Jesus is who he claimed to be, his uniqueness is not arrogance but fact.",
+    "keyVerses": ["John.14.5-John.14.6", "Acts.4.12", "1Tim.2.5-1Tim.2.6", "Col.1.19-Col.1.20", "Heb.4.14-Heb.4.16", "Heb.7.25", "Heb.10.10-Heb.10.12", "1John.2.1-1John.2.2"],
+    "people": ["jesus_905", "peter_2745", "thomas_2851", "paul_2479"],
+    "related": ["incarnation", "atonement", "sola-fide", "sola-gratia"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "30", "label": "Heidelberg Catechism Q30"},
+      {"creed": "belgic_confession_of_faith", "item": "26", "label": "Belgic Confession Art. 26 (The Intercession of Christ)"},
+      {"creed": "westminster_shorter_catechism", "item": "21", "label": "Westminster Shorter Catechism Q21"}
+    ],
+    "reflect": [
+      "Is it possible to hold an exclusive belief while treating people of other faiths with deep respect?",
+      "Why might a mediator need to be both truly God and truly human?",
+      "Was the belief that all paths lead to the same place a conclusion you reached, or a starting point you assumed?"
+    ],
+    "bridge": {
+      "concept": "Purushakara and the Many Paths",
+      "tradition": "Hindu (Sri Vaishnava and Vedantic)",
+      "resonance": "Sri Vaishnava theology understands that a sinner may feel unworthy to approach the Lord directly. So Sri, the goddess Lakshmi, acts as purushakara, the compassionate mediator who draws near and intercedes for the soul; the acharya, or teacher, plays a mediating role too. Christians share this deep intuition: we need someone to stand between us and the holy God, someone who loves us and pleads for us (Heb 7:25; 1 John 2:1).",
+      "difference": "Much Hindu thought also welcomes many paths: “Truth is one; the wise call it by many names” (Rigveda 1.164.46), and in the Gita Krishna receives people however they approach him (4.11). Protestants believe there is only one mediator, who is himself both fully God and fully human (1 Tim 2:5). He does not persuade a reluctant God to show mercy; he is God's mercy in person, and he mediates by offering himself as the sacrifice for sin.",
+      "invitation": "Consider whether a true mediator must be one of us, one with God, or both at once."
+    }
+  },
+  {
+    "id": "soli-deo-gloria",
+    "title": "To God Alone Be the Glory",
+    "category": "five-solas",
+    "icon": "star",
+    "hook": "What would it mean to live for a glory not your own?",
+    "summary": "Soli Deo gloria, “to God alone be the glory,” gathers up the other four solas. If salvation comes by grace alone, through faith alone, in Christ alone, as taught by Scripture alone, then no human being can take credit for it. All the glory belongs to God. “Not to us, O LORD, not to us, but to Your name be the glory” (Ps 115:1). God says through Isaiah, “I will not yield My glory to another” (Isa 42:8). This is not the vanity of a self-centred deity. In the Bible, God's glory is the shining out of his goodness, beauty and love, and to glorify God is to recognize that reality and reflect it. The Westminster Shorter Catechism says our chief end is “to glorify God, and to enjoy him for ever” (Q1). For the Reformers this reached into every corner of life: “whether you eat or drink or whatever you do, do it all to the glory of God” (1 Cor 10:31). Johann Sebastian Bach often signed his scores with the letters S.D.G., for Soli Deo Gloria.",
+    "philosophy": "Is it not selfish for God to seek his own glory? Jonathan Edwards took up this question in his essay on the end for which God created the world. He argued that God's glory is not God taking from creatures but God's fullness overflowing to them, like light streaming from the sun. When God seeks his glory, he seeks our highest good, because our joy is found in knowing him. C. S. Lewis noticed that praise completes enjoyment: we naturally praise what we delight in, and the delight is not complete until it is expressed. Philosophers since Aristotle have asked what final end, or telos, all our actions aim at. Augustine answered that only God can be enjoyed for his own sake; everything else should be loved in relation to him. Soli Deo gloria frees people from the exhausting work of building their own glory, because their worth no longer depends on applause.",
+    "keyVerses": ["Ps.19.1", "Ps.115.1", "Isa.42.8", "Isa.43.7", "Rom.11.33-Rom.11.36", "1Cor.10.31", "2Cor.4.6", "Rev.4.11"],
+    "people": ["god_1324", "david_994", "isaiah_617", "paul_2479", "john_1677"],
+    "related": ["meaning", "sola-gratia", "work-and-vocation", "who-is-god"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "1", "label": "Westminster Shorter Catechism Q1"},
+      {"creed": "westminster_confession_of_faith", "item": "2", "label": "Westminster Confession of Faith 2 (Of God and the Holy Trinity)"},
+      {"creed": "heidelberg_catechism", "item": "122", "label": "Heidelberg Catechism Q122"}
+    ],
+    "reflect": [
+      "Where in your life are you working hardest for your own glory, and how does it feel?",
+      "Why might praising something make your enjoyment of it complete?",
+      "What ordinary act of your day could become an offering if you did it for someone greater than yourself?"
+    ],
+    "bridge": {
+      "concept": "Offering Every Act to God (Gita 9.27)",
+      "tradition": "Hindu (Bhagavad Gita and Sri Vaishnava kainkarya)",
+      "resonance": "The Gita contains one of the closest parallels to 1 Corinthians 10:31 in world literature. Krishna tells Arjuna to make whatever he does, whatever he eats, offers, gives or endures in austerity, into an offering to him (9.27). Sri Vaishnavas speak of kainkarya, joyful service to God in every part of life. Both traditions teach that ordinary acts, even eating, can become worship, and that the self finds its fulfilment in being given to God.",
+      "difference": "In the Gita, offering every action to Krishna also frees one from the binding fruits of karma (9.28); the offering is part of the path to liberation. Protestants believe that living for God's glory is not a means of salvation but a response to a salvation already given. Soli Deo gloria began as a protest against all human merit: because God alone saves, God alone is praised. And his glory shines most clearly in the face of the crucified Christ (2 Cor 4:6).",
+      "invitation": "Ask whether you give yourself to God in order to be set free, or because you already have been."
+    }
+  },
+  {
+    "id": "love",
+    "title": "Love",
+    "category": "good-life",
+    "icon": "heart",
+    "hook": "Is love something we feel, or something we give?",
+    "summary": "“God is love” (1 John 4:8). Protestants believe love is not merely one of God's qualities but the very life of the Trinity, poured out toward the world. The New Testament often uses the Greek word agape for a self-giving love that seeks the good of the other, even at great cost. Its supreme demonstration is the cross: “God proves His love for us in this: While we were still sinners, Christ died for us” (Rom 5:8). This love begins with God, not with us: “We love because He first loved us” (1 John 4:19). From it flows the whole moral life. Jesus summed up the law in two commands: love God with all your heart, soul and mind, and love your neighbour as yourself (Matt 22:37-39). He went further: “Love your enemies” (Luke 6:27). Paul's famous hymn describes love as patient, kind, humble and never failing (1 Cor 13:4-8). Love in the Bible is not only a feeling but a commitment, shown “in action and truth” (1 John 3:18).",
+    "philosophy": "The ancient Greeks distinguished several loves: eros (desire), philia (friendship), storge (family affection) and agape. Plato's Symposium pictured eros as a ladder rising from bodily beauty to Beauty itself. Augustine taught that a good life depends on rightly ordered love, loving each thing as it deserves and God above all. Kierkegaard, in Works of Love, argued that the command to love one's neighbour is radical precisely because it is a command: it does not depend on whether the other is lovable, and so it cannot be shaken by change. Nietzsche, by contrast, suspected that Christian love was a disguised resentment of the strong by the weak. Christians answer that agape is not weakness but the strongest power there is: the love of one who could have condemned, but chose to die instead. The deepest question about love may be whether it flows from our need or from our fullness.",
+    "keyVerses": ["Deut.6.5", "Hos.3.1", "Matt.22.37-Matt.22.40", "Luke.6.27-Luke.6.28", "John.15.13", "Rom.5.8", "1Cor.13.4-1Cor.13.7", "1John.4.7-1John.4.12"],
+    "people": ["jesus_905", "john_1677", "paul_2479", "hosea_1555"],
+    "related": ["who-is-god", "trinity", "forgiveness", "justice-and-mercy", "church"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "42", "label": "Westminster Shorter Catechism Q42"},
+      {"creed": "heidelberg_catechism", "item": "4", "label": "Heidelberg Catechism Q4"}
+    ],
+    "reflect": [
+      "Which phrase in 1 Corinthians 13:4-7 is hardest for you to live out?",
+      "Is it possible to love someone you do not like? What would that look like?",
+      "Which is harder for you: to love God, or to believe that God already loves you?"
+    ],
+    "bridge": {
+      "concept": "Bhakti and Agape",
+      "tradition": "Hindu (Bhakti traditions)",
+      "resonance": "Bhakti, loving devotion to a personal God, is one of the most beautiful streams in Hindu religion. In the Gita, the Lord accepts even a leaf, a flower, a fruit or a little water offered with love (9.26), and Krishna tells Arjuna that he is dearly loved (18.64). The Alvars, Mirabai, Tulsidas and Chaitanya expressed a passionate intimacy with God in poetry and song. Like Christian faith, bhakti insists that the heart of religion is love between God and the soul, not ritual alone.",
+      "difference": "In bhakti, the primary movement is the devotee's love rising toward God, although bhakti traditions also celebrate God's grace and compassion. Agape in the New Testament is first God's love moving down toward the unworthy, the sinner and the enemy, shown in one historical act of self-sacrifice (1 John 4:10). Protestants believe our love is always a response to his. And agape is not only devotion to God; it becomes the pattern for loving every neighbour, even enemies (Luke 6:27).",
+      "invitation": "Consider what changes when love is understood first as something you receive, and only then as something you give."
+    }
+  },
+  {
+    "id": "forgiveness",
+    "title": "Forgiveness",
+    "category": "good-life",
+    "icon": "hand-heart",
+    "hook": "Can a debt be cancelled without being ignored?",
+    "summary": "Forgiveness runs through the whole Bible. God reveals himself as one who forgives “iniquity, transgression, and sin” (Exod 34:7), and David rejoices, “Blessed is he whose transgressions are forgiven” (Ps 32:1). God removes our sins “as far as the east is from the west” (Ps 103:12). Protestants believe this forgiveness is costly: it rests on Christ's sacrifice, because of which God “will no more remember my sins” (Heidelberg Catechism Q56). Jesus pictured God as a father running to embrace a wayward son (Luke 15:20). Those who are forgiven are called to forgive others. Jesus taught his followers to pray, “forgive us our debts, as we also have forgiven our debtors” (Matt 6:12), and told Peter to forgive “seventy-seven times” (Matt 18:22). On the cross he prayed for his executioners: “Father, forgive them” (Luke 23:34). Christian forgiveness does not mean pretending a wrong was not wrong, or always restoring trust at once. It means releasing the debt, giving up revenge, and leaving judgment to God (Rom 12:19).",
+    "philosophy": "Jacques Derrida argued that true forgiveness must forgive the unforgivable; otherwise it is merely a fair exchange. Hannah Arendt saw forgiveness as one of the few powers that can break the endless chain of action and reaction in human affairs, releasing people from the consequences of what they have done. Both insights echo the Bible, which treats forgiveness as something closer to a miracle than a calculation. Nietzsche, however, suspected that forgiveness often masks weakness or hidden revenge. Christian thinkers reply that real forgiveness requires strength: it names the wrong fully and then chooses not to repay it. C. S. Lewis observed that everyone agrees forgiveness is a lovely idea until they have something to forgive. The Christian claim is that forgiveness is possible because someone has absorbed its cost: God himself, in Christ. Those who know how much they have been forgiven slowly find the power to forgive.",
+    "keyVerses": ["Ps.32.1-Ps.32.5", "Ps.103.10-Ps.103.12", "Isa.1.18", "Matt.6.12", "Matt.18.21-Matt.18.35", "Luke.15.20-Luke.15.24", "Luke.23.34", "Eph.4.32"],
+    "people": ["joseph_1710", "david_994", "peter_2745", "stephen_2802", "jesus_905"],
+    "related": ["atonement", "love", "justice-and-mercy", "peace", "sin-and-the-fall"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "56", "label": "Heidelberg Catechism Q56"},
+      {"creed": "westminster_shorter_catechism", "item": "105", "label": "Westminster Shorter Catechism Q105"},
+      {"creed": "heidelberg_catechism", "item": "126", "label": "Heidelberg Catechism Q126"}
+    ],
+    "reflect": [
+      "Is there someone you find it hard to forgive? What do you fear forgiving them would mean?",
+      "What is the difference between forgiving someone and trusting them again?",
+      "Is there a debt someone owes you that you could release, not because it does not matter, but because you have been released?"
+    ],
+    "bridge": {
+      "concept": "Kshama (Forgiveness) and the Law of Karma",
+      "tradition": "Hindu (Mahabharata and Bhagavad Gita)",
+      "resonance": "Hindu ethics honours kshama, forgiveness or forbearance, as a mark of greatness. The Gita lists it among the divine qualities (16.3). In the Mahabharata, when Draupadi urges Yudhishthira toward anger after their humiliation, he answers with a long praise of forgiveness as the strength of the strong and the very essence of dharma. Both traditions teach that forgiving others is not weakness but nobility, and that anger, once indulged, harms the one who holds it.",
+      "difference": "In classical karma theory, the consequences of wrong action must still work themselves out, even when the victim forgives. Bhakti traditions do speak of divine forgiveness, but Protestants make a specific claim: God's forgiveness wholly cancels the debt of sin because Christ has borne it. It is not an exception to justice but justice satisfied. Human forgiveness then flows from this. Christians forgive “just as in Christ God forgave you” (Eph 4:32), as people released from a debt they could never pay.",
+      "invitation": "Ask whether it is easier to forgive when you remember how much you yourself have been forgiven."
+    }
+  },
+  {
+    "id": "justice-and-mercy",
+    "title": "Justice and Mercy",
+    "category": "good-life",
+    "icon": "scale",
+    "hook": "Can God be perfectly just and still show mercy?",
+    "summary": "The God of the Bible loves both justice and mercy. The prophet Micah sums up God's will: “to act justly, to love mercy, and to walk humbly with your God” (Mic 6:8). Amos cries, “let justice roll on like a river” (Amos 5:24), and Isaiah calls God's people to “defend the fatherless and plead the case of the widow” (Isa 1:17). God cares especially for the poor, the foreigner and the oppressed, and Jesus announced his mission as “good news to the poor” and “liberty to the captives” (Luke 4:18). Yet God is also merciful, slow to anger and ready to forgive. How can both be true? Protestants believe the answer is the cross. The Belgic Confession says that in Christ God “made known his justice toward his Son” and “poured out his goodness and mercy on us” (Art. 20). God is “just” and also the one who “justifies” those who believe (Rom 3:26). Those who receive mercy are called to show it and to work for justice for others, because “mercy triumphs over judgment” (Jas 2:13).",
+    "philosophy": "What is justice? Plato's Republic asks whether justice is anything more than the advantage of the stronger. Aristotle defined it as giving each person their due. Mercy seems to cut across this, because it gives people better than they deserve. Anselm wrestled with how a perfectly just God could spare the wicked, and concluded that God's mercy flows from his goodness without contradicting his justice. Shakespeare, in The Merchant of Venice, has Portia plead that mercy “seasons justice.” In the twentieth century, John Rawls described justice as fairness in the structure of society. The prophets add something philosophers often miss: a society's justice is measured by how its weakest members are treated. The Christian vision refuses to choose between justice and mercy. At the cross, as the psalmist foresaw, “righteousness and peace have kissed” (Ps 85:10). Christian ethics therefore seeks both accountability for wrong and restoration for wrongdoers.",
+    "keyVerses": ["Exod.34.6-Exod.34.7", "Ps.85.10", "Isa.1.17", "Amos.5.24", "Mic.6.8", "Luke.4.18-Luke.4.19", "Rom.3.25-Rom.3.26", "Jas.2.13"],
+    "people": ["amos_238", "micah_2053", "isaiah_617", "zacchaeus_2961", "jesus_905"],
+    "related": ["atonement", "love", "forgiveness", "kingdom-of-god", "humility"],
+    "creeds": [
+      {"creed": "belgic_confession_of_faith", "item": "20", "label": "Belgic Confession Art. 20 (The Justice and Mercy of God in Christ)"},
+      {"creed": "heidelberg_catechism", "item": "11", "label": "Heidelberg Catechism Q11"},
+      {"creed": "heidelberg_catechism", "item": "107", "label": "Heidelberg Catechism Q107"}
+    ],
+    "reflect": [
+      "When you are wronged, do you long more for justice or for mercy? Could you want both at once?",
+      "Who are the most vulnerable people in your community, and how are they treated?",
+      "What would it look like to act justly, love mercy and walk humbly this week?"
+    ],
+    "bridge": {
+      "concept": "Dharma and Daya (Compassion)",
+      "tradition": "Hindu (Dharmashastra and Sri Vaishnava)",
+      "resonance": "Dharma names the righteous order that upholds society and the cosmos, including a ruler's duty to protect the weak. Daya, compassion, is honoured beside it. Vedanta Desika's Daya Shatakam, a hundred verses on the compassion of the Lord of Tirumala, pictures divine compassion as a gracious power that softens the Lord's strict justice toward sinners. Both traditions wrestle with the same tension: how a righteous God who upholds moral order can also spare and save those who have broken it.",
+      "difference": "In Desika's poem, compassion prevails over strict justice. Protestants believe God's mercy never sets his justice aside; instead, justice is fully satisfied when Christ bears the penalty of sin, so that mercy can flow without compromise (Rom 3:25-26). Biblical justice also has a strongly social edge: the prophets judge whole nations by how they treat the widow, the orphan, the foreigner and the poor, regardless of birth or status.",
+      "invitation": "Consider whether mercy that simply overlooks wrong would satisfy you if you were the one who had been wronged."
+    }
+  },
+  {
+    "id": "prayer",
+    "title": "Prayer",
+    "category": "good-life",
+    "icon": "hands",
+    "hook": "What does it mean to speak with God?",
+    "summary": "Prayer is personal conversation with God. The Westminster Shorter Catechism defines it as “an offering up of our desires unto God, for things agreeable to his will, in the name of Christ, with confession of our sins, and thankful acknowledgment of his mercies” (Q98). When a disciple asked, “Lord, teach us to pray” (Luke 11:1), Jesus gave a simple pattern now called the Lord's Prayer, which begins, “Our Father in heaven, hallowed be Your name” (Matt 6:9). Protestants emphasize that, because of Christ, believers may address the holy God as Father, with the confidence of children. Jesus warned against empty repetition by those who “think that by their many words they will be heard” (Matt 6:7). The Psalms show that prayer includes praise, thanks, confession, request and even complaint: “pour out your hearts before Him” (Ps 62:8). In Gethsemane Jesus prayed, “Not what I will, but what You will” (Mark 14:36). And when we do not know how to pray, “the Spirit Himself intercedes for us” (Rom 8:26).",
+    "philosophy": "If God knows everything and has already planned everything, why pray? Philosophers have asked this since ancient times. Aquinas answered that God ordains not only events but also the means by which they come about, and prayer is one of those means: we pray not to change God's mind but to receive what God wills to give through our asking. Pascal wrote that God instituted prayer to give his creatures the dignity of being causes. Kierkegaard observed that prayer does not change God, but it changes the one who prays. Critics such as Feuerbach saw prayer as humans talking to an idealized version of themselves. Christians answer that prayer is not mainly a technique for getting things but a relationship in which we are known. Calvin called prayer the chief exercise of faith. Bonhoeffer, who prayed the Psalms daily even in prison, found in them words God had given for every human condition, from joy to despair.",
+    "keyVerses": ["Ps.62.8", "Matt.6.5-Matt.6.13", "Luke.11.1-Luke.11.4", "Luke.18.1", "Mark.14.36", "Rom.8.26-Rom.8.27", "Phil.4.6-Phil.4.7", "Heb.4.16"],
+    "people": ["jesus_905", "hannah_1400", "david_994", "daniel_975", "elijah_1131"],
+    "related": ["holy-spirit", "faith-and-doubt", "humility", "peace", "kingdom-of-god"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "98", "label": "Westminster Shorter Catechism Q98"},
+      {"creed": "heidelberg_catechism", "item": "116", "label": "Heidelberg Catechism Q116"},
+      {"creed": "heidelberg_catechism", "item": "117", "label": "Heidelberg Catechism Q117"}
+    ],
+    "reflect": [
+      "If prayer were less like reciting and more like talking, what would you say first?",
+      "Is it easier for you to praise, to ask, to confess or to complain in prayer?",
+      "What do you think Jesus meant by praying “not what I will, but what You will”?"
+    ],
+    "bridge": {
+      "concept": "Japa and Nama-smarana (Remembering the Name)",
+      "tradition": "Hindu (Bhakti traditions)",
+      "resonance": "Hindu devotion treasures the name of God. In japa, devotees repeat a divine name or mantra, often with a string of beads, and saints such as Tukaram and Kabir taught that remembering the Name (nama-smarana) purifies the heart. At its best this is not a mechanism but loving attention. Christians, too, pray “hallowed be Your name” (Matt 6:9), treat God's name as holy, and some Christian traditions use short repeated prayers to keep the heart turned toward God.",
+      "difference": "Jesus taught that prayer is not heard because of its many words (Matt 6:7), but because a Father already knows what his children need (Matt 6:8). Protestants believe Christian prayer is a conversation, often in our own ordinary words, addressed to the Father, through the Son, by the Spirit. It rests not on technique or the power of sacred sound, but on access: through Christ, sinners may approach God's throne of grace with confidence (Heb 4:16).",
+      "invitation": "Consider whether prayer for you is more about saying the right words or about being heard by someone."
+    }
+  },
+  {
+    "id": "wisdom",
+    "title": "Wisdom",
+    "category": "good-life",
+    "icon": "tree-pine",
+    "hook": "Is wisdom knowing many things, or knowing how to live?",
+    "summary": "The Bible's wisdom books, Proverbs, Job and Ecclesiastes, along with many psalms, explore how to live well in God's world. In Hebrew, wisdom (hokmah) is a practical skill, like a craftsman's, applied to all of life: speech, work, money, friendship, family and justice. Its foundation is clear: “The fear of the LORD is the beginning of wisdom” (Prov 9:10). This fear is not terror but reverent awe, the recognition that God is God and we are not. Wisdom therefore begins in humility: “Trust in the LORD with all your heart, and lean not on your own understanding” (Prov 3:5). Job and Ecclesiastes add that wisdom must also face mystery and suffering honestly. The New Testament reveals that the deepest wisdom is found in Christ, “in whom are hidden all the treasures of wisdom and knowledge” (Col 2:3), and especially in the cross, which looks like foolishness to the world (1 Cor 1:18-25). Protestants believe wisdom is a gift: “if any of you lacks wisdom, he should ask God” (Jas 1:5).",
+    "philosophy": "The word philosophy literally means “love of wisdom.” Socrates claimed to be wise only in knowing that he did not know. Aristotle distinguished theoretical wisdom (sophia), knowledge of first principles, from practical wisdom (phronesis), the ability to act well in particular situations. Biblical wisdom resembles phronesis, but roots it in a relationship with God. The Stoics taught that wisdom means living in harmony with nature and accepting what we cannot control. Paul, writing to Greeks who prized philosophy, made a startling claim: God's wisdom is revealed in a crucified Messiah, which looks like weakness and folly (1 Cor 1:23-25). Pascal wrote that the heart has reasons that reason does not know. Kierkegaard warned against knowing a great deal about truth without ever living it. The biblical tradition agrees: wisdom is proven not in the lecture hall but in the way a person speaks, works, suffers and loves.",
+    "keyVerses": ["Job.28.28", "Ps.90.12", "Prov.1.7", "Prov.3.5-Prov.3.6", "Prov.9.10", "1Cor.1.18-1Cor.1.25", "Col.2.2-Col.2.3", "Jas.1.5"],
+    "people": ["solomon_2762", "job_1639", "jesus_905", "paul_2479", "james_719"],
+    "related": ["truth-and-revelation", "humility", "meaning", "faith-and-doubt"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "18", "label": "Heidelberg Catechism Q18"},
+      {"creed": "heidelberg_catechism", "item": "122", "label": "Heidelberg Catechism Q122"}
+    ],
+    "reflect": [
+      "Who is the wisest person you know, and is their wisdom more in what they know or in how they live?",
+      "What would it mean for you to “lean not on your own understanding”?",
+      "Why might a crucified Saviour look like foolishness, and why might it be wisdom?"
+    ],
+    "bridge": {
+      "concept": "Jnana and Viveka (Knowledge and Discernment)",
+      "tradition": "Hindu (Upanishads and Bhagavad Gita)",
+      "resonance": "Hindu traditions prize jnana, liberating knowledge, and viveka, the discernment between what lasts and what passes. In the Gita, the person of steady wisdom is unshaken in sorrow and free from craving in joy (2.56). Both traditions see wisdom not as information but as the transformation of the whole person, shown in self-control, humility and inner steadiness. Both also hold that true wisdom begins in relation to the divine, not in human cleverness alone.",
+      "difference": "In Advaita, jnana is the direct realization that the self is Brahman, and that realization itself liberates. Biblical wisdom is different in kind. It begins with the fear of the Lord, a creature's reverence before the Creator, and it is lived out in the ordinary skills of a just and faithful life. It does not save on its own. Protestants believe God's deepest wisdom is a crucified Saviour (1 Cor 1:24), received by faith and given freely to anyone who asks (Jas 1:5).",
+      "invitation": "Ask whether the wisdom you seek is mainly a way of seeing reality, or a way of walking with someone through it."
+    }
+  },
+  {
+    "id": "faith-and-doubt",
+    "title": "Faith and Doubt",
+    "category": "good-life",
+    "icon": "mountain",
+    "hook": "Can you believe and still have questions?",
+    "summary": "The Bible is surprisingly honest about doubt. A psalmist asks, “How long, O LORD? Will You forget me forever?” (Ps 13:1). The prophet Habakkuk complains, “How long, O LORD, must I call for help but You do not hear?” (Hab 1:2). John the Baptist, in prison, sent to ask Jesus, “Are You the One who was to come, or should we look for someone else?” (Matt 11:3). Thomas refused to believe in the resurrection until he could touch Jesus' wounds (John 20:25). A desperate father cried, “I do believe; help my unbelief!” (Mark 9:24). In each case, God does not reject the honest doubter. Protestants believe faith is not the absence of questions but trust in God that holds on through them. The Westminster Confession says faith may be “weak or strong,” and “often and many ways assailed and weakened, but gets the victory” (14.3). What saves is not the strength of our faith but the faithfulness of the one we trust. Jude tells believers simply, “have mercy on those who doubt” (Jude 1:22).",
+    "philosophy": "Descartes made doubt the method of philosophy, doubting everything until he reached what could not be doubted. Hume's skepticism showed how little can be proved with certainty, even about cause and effect. Christian thinkers have answered in different ways. Pascal admitted that reason cannot prove God beyond all doubt, and offered his famous wager: since so much is at stake, it is wise to seek God. Kierkegaard argued that faith always involves risk, a leap beyond objective certainty, and that a faith that never struggles may not be faith at all. Luther spoke of Anfechtung, deep spiritual assault and inner turmoil, as a normal part of the believer's life. Many people assume that doubt is the opposite of faith. The Bible suggests rather that the opposite of faith is turning away. Doubt brought honestly to God can become a path to deeper trust, as Job discovered (Job 42:5).",
+    "keyVerses": ["Ps.13.1-Ps.13.6", "Ps.73.16-Ps.73.17", "Hab.1.2-Hab.1.4", "Matt.11.2-Matt.11.6", "Matt.14.29-Matt.14.31", "Mark.9.23-Mark.9.24", "John.20.24-John.20.29", "Jude.1.22"],
+    "people": ["thomas_2851", "john_1676", "habakkuk_1334", "asaph_330", "peter_2745"],
+    "related": ["evil-and-suffering", "sola-fide", "prayer", "resurrection", "truth-and-revelation"],
+    "creeds": [
+      {"creed": "westminster_confession_of_faith", "item": "14", "label": "Westminster Confession of Faith 14 (Of Saving Faith)"},
+      {"creed": "westminster_confession_of_faith", "item": "18", "label": "Westminster Confession of Faith 18 (Of the Assurance of Grace and Salvation)"},
+      {"creed": "heidelberg_catechism", "item": "21", "label": "Heidelberg Catechism Q21"}
+    ],
+    "reflect": [
+      "What question would you most want to bring honestly before God?",
+      "Is your doubt more about evidence, about suffering, or about whether God cares?",
+      "What do you make of the father's prayer, “I do believe; help my unbelief”?"
+    ],
+    "bridge": {
+      "concept": "Arjuna's Crisis (Bhagavad Gita 1-2)",
+      "tradition": "Hindu (Bhagavad Gita)",
+      "resonance": "The Gita opens not with serene certainty but with a crisis. On the battlefield, Arjuna sees his own relatives on the other side; his bow slips from his hand and he sinks down in grief. He tells Krishna that his mind is confused about dharma, and asks to be taught as a disciple (2.7). Like the psalmists and Job, Arjuna brings his anguish honestly before God, and his crisis becomes the very occasion of revelation. Both traditions honour the person who questions rather than hides.",
+      "difference": "Krishna answers Arjuna largely with teaching: the self is eternal and cannot be slain (2.20), so he should do his duty without attachment. In the Bible, lament is sometimes left unresolved for a time (Ps 88), and God may give his presence rather than an explanation (Job 38-42). Protestants believe faith is trust in a person who keeps his promises. In Christ, God himself entered the lament, crying the words of Psalm 22 from the cross: “My God, My God, why have You forsaken Me?” (Matt 27:46).",
+      "invitation": "Consider whether, in your hardest questions, you most need an answer or a companion who will not leave."
+    }
+  },
+  {
+    "id": "humility",
+    "title": "Humility",
+    "category": "good-life",
+    "icon": "feather",
+    "hook": "Why would the greatest choose to become the servant of all?",
+    "summary": "Humility is one of the Bible's most distinctive virtues. Moses is described as “a very humble man” (Num 12:3). God declares that he dwells “in a high and holy place, and with the oppressed and humble in spirit” (Isa 57:15), and that he “opposes the proud, but gives grace to the humble” (Jas 4:6). Jesus blessed “the poor in spirit” (Matt 5:3), and told a parable in which a proud religious man goes home unforgiven while a tax collector who prays, “God, have mercy on me, a sinner!” goes home justified (Luke 18:9-14). Most strikingly, humility is shown by God himself. The Son of God “emptied Himself, taking the form of a servant,” and humbled himself even to death on a cross (Phil 2:7-8). Jesus, who called himself “gentle and humble in heart” (Matt 11:29), washed his disciples' feet. Protestants believe humility is not self-hatred but truthfulness: seeing ourselves as God sees us, as sinners who are deeply loved, and so becoming free to “consider others more important than yourselves” (Phil 2:3).",
+    "philosophy": "In ancient Greek and Roman culture, humility was rarely counted a virtue. Aristotle admired the great-souled man who rightly claims high honour for himself. Historians often note that the Christian elevation of humility was a moral revolution, shaped by the image of a crucified Lord. Augustine called humility the foundation of the other virtues, and pride the root of sin. Nietzsche later attacked Christian humility as slave morality, the revenge of the weak against human greatness. Christian thinkers answer that humility is not weakness but realism: it removes the distortion of self-importance. C. S. Lewis argued that pride is essentially competitive, taking pleasure in being above others, while the humble person is so taken up with what is good that they hardly think about themselves at all. Jonathan Edwards saw humility as one of the surest signs of true spiritual life. Humility, rightly understood, is the freedom of a self that no longer needs to be the centre.",
+    "keyVerses": ["Num.12.3", "Isa.57.15", "Mic.6.8", "Matt.5.3", "Luke.18.9-Luke.18.14", "John.13.12-John.13.15", "Phil.2.3-Phil.2.8", "1Pet.5.5-1Pet.5.6"],
+    "people": ["moses_2108", "jesus_905", "john_1676", "paul_2479", "peter_2745"],
+    "related": ["incarnation", "wisdom", "prayer", "love", "justice-and-mercy"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "27", "label": "Westminster Shorter Catechism Q27"},
+      {"creed": "heidelberg_catechism", "item": "117", "label": "Heidelberg Catechism Q117"},
+      {"creed": "heidelberg_catechism", "item": "94", "label": "Heidelberg Catechism Q94"}
+    ],
+    "reflect": [
+      "What would it look like to serve someone today in a way no one would notice?",
+      "Is your humility ever really a hidden form of pride or self-criticism?",
+      "What does it suggest about God that the Bible pictures him washing feet?"
+    ],
+    "bridge": {
+      "concept": "Dasya and Naichya (Servanthood and Lowliness)",
+      "tradition": "Hindu (Sri Vaishnava and Bhakti)",
+      "resonance": "Bhakti traditions prize the servant's attitude (dasya bhava), embodied in Hanuman's devoted service to Rama. Sri Vaishnavas cultivate naichya, a sense of one's own lowliness before God, and many traditionally refer to themselves as adiyen, “your servant,” instead of saying “I.” The poet-saints often confess their unworthiness with great tenderness. Christians likewise see humility as the truthful posture of a creature before God, and as the soil in which grace grows (Jas 4:6).",
+      "difference": "In bhakti, humility is above all the devotee's posture before a great Lord. The Bible adds something startling: God himself is humble. Protestants believe the eternal Son took the form of a servant, knelt to wash his disciples' feet, and died a criminal's death (Phil 2:5-8; John 13:14). Christian humility is therefore an imitation of God as much as reverence toward him. It is also free from self-contempt, because it rests on being forgiven and loved, not on how lowly one can feel.",
+      "invitation": "Ask what it would mean for humility to be not only how you stand before God, but how God has chosen to stand before you."
+    }
+  },
+  {
+    "id": "sabbath-and-rest",
+    "title": "Sabbath and Rest",
+    "category": "good-life",
+    "icon": "moon",
+    "hook": "Is rest a reward for work, or a gift that comes first?",
+    "summary": "After six days of creation, God “rested from all His work” on the seventh day, blessed it and made it holy (Gen 2:2-3). God did not rest because he was tired (Isa 40:28), but in delight over finished work. He later gave Israel the Sabbath commandment: “Remember the Sabbath day by keeping it holy” (Exod 20:8). In Deuteronomy the reason given is freedom: “Remember that you were a slave in the land of Egypt” (Deut 5:15). Servants, foreigners and even animals were to rest too (Deut 5:14), so Sabbath was also a matter of justice. Jesus healed on the Sabbath and declared, “The Sabbath was made for man, not man for the Sabbath” (Mark 2:27). He offered a deeper rest: “Come to Me, all you who are weary and burdened, and I will give you rest” (Matt 11:28). Most Protestants keep the Lord's Day, Sunday, the day of resurrection, for worship and rest, though traditions differ on how strictly. Hebrews promises that “there remains, then, a Sabbath rest for the people of God” (Heb 4:9).",
+    "philosophy": "Modern life often measures human worth by productivity. Aristotle had already observed that we work in order to have leisure, and that leisure, rightly used, is where the highest human activities, such as contemplation, take place. The Sabbath goes further: it is a weekly reminder that we are not machines and that the world does not depend on our ceaseless effort. The Jewish thinker Abraham Joshua Heschel described the Sabbath as holiness built in time rather than in space. Pascal thought that much human misery comes from our inability to sit quietly in a room. The Reformers connected the Sabbath to grace. The Heidelberg Catechism speaks of resting from our evil works and letting the Lord work in us, so that we “begin in this life the eternal sabbath” (Q103). Rest becomes an act of trust, a confession that God, not we, holds the world together.",
+    "keyVerses": ["Gen.2.2-Gen.2.3", "Exod.20.8-Exod.20.11", "Deut.5.12-Deut.5.15", "Isa.58.13-Isa.58.14", "Mark.2.27-Mark.2.28", "Matt.11.28-Matt.11.30", "Heb.4.9-Heb.4.11", "Ps.127.2"],
+    "people": ["god_1324", "moses_2108", "nehemiah_2172", "jesus_905"],
+    "related": ["work-and-vocation", "peace", "time-and-history", "sola-gratia"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "103", "label": "Heidelberg Catechism Q103"},
+      {"creed": "westminster_shorter_catechism", "item": "59", "label": "Westminster Shorter Catechism Q59"},
+      {"creed": "westminster_confession_of_faith", "item": "21", "label": "Westminster Confession of Faith 21 (Of Religious Worship and the Sabbath Day)"}
+    ],
+    "reflect": [
+      "What would it mean for you to stop working one day a week, not because you had finished, but because you trusted?",
+      "Who in your life cannot rest because others depend on their labour?",
+      "Is your rest a reward you earn, or a gift you receive?"
+    ],
+    "bridge": null
+  },
+  {
+    "id": "work-and-vocation",
+    "title": "Work and Vocation",
+    "category": "good-life",
+    "icon": "sprout",
+    "hook": "Can ordinary work be holy?",
+    "summary": "Work is not a curse in the Bible. Before the fall, God placed the first man in the garden “to cultivate and keep it” (Gen 2:15). Work became painful after sin (Gen 3:17-19), but it remains part of our dignity as bearers of God's image. God filled Bezalel “with the Spirit of God” for craftsmanship (Exod 31:3), and Paul worked as a tentmaker alongside Priscilla and Aquila (Acts 18:3). The Reformers developed the doctrine of vocation, from the Latin for “calling.” Medieval piety often ranked monks and priests as more spiritual. Luther insisted that the farmer, the mother, the shoemaker and the magistrate serve God just as truly, because through their work God cares for the world (1 Cor 7:17). Protestants believe work is not a way to earn salvation but a way to love one's neighbour and glorify God: “Whatever you do, work at it with your whole being, as for the Lord” (Col 3:23). The Heidelberg Catechism prays that all may fulfil “the duties of his office and calling” as gladly as the angels (Q124).",
+    "philosophy": "Ancient Greek philosophers often looked down on manual labour as fit for slaves, while the life of contemplation was the highest. The Bible's portrait of a God who works, and of a Messiah raised in a craftsman's home, challenged this view. Luther's doctrine of vocation is often credited with shaping the Protestant work ethic. The sociologist Max Weber, early in the twentieth century, argued that this ethic helped give rise to modern capitalism, though historians still debate his thesis. Karl Marx criticized the way industrial labour alienates workers from what they make and from their own humanity. Christian thinkers agree that work can become either an idol or a crushing burden, but they insist its true purpose is service. Luther's teaching is often summarized this way: God does not need our good works, but our neighbour does. Work is thus freed from two errors: being worshipped as the source of identity, and being despised as meaningless toil.",
+    "keyVerses": ["Gen.2.15", "Exod.31.1-Exod.31.5", "Ps.90.17", "Eccl.9.10", "1Cor.7.17-1Cor.7.24", "Eph.4.28", "Col.3.23-Col.3.24", "1Thess.4.11-1Thess.4.12"],
+    "people": ["adam_78", "bezaleel_490", "paul_2479", "priscilla_2370", "lydia_1837"],
+    "related": ["soli-deo-gloria", "sabbath-and-rest", "meaning", "love"],
+    "creeds": [
+      {"creed": "heidelberg_catechism", "item": "124", "label": "Heidelberg Catechism Q124"},
+      {"creed": "heidelberg_catechism", "item": "111", "label": "Heidelberg Catechism Q111"},
+      {"creed": "westminster_larger_catechism", "item": "141", "label": "Westminster Larger Catechism Q141"}
+    ],
+    "reflect": [
+      "Who is served when you do your daily work well, and does picturing them change how you work?",
+      "Is your work more likely to become an idol or a burden for you?",
+      "What would it mean to see your studies or job as a calling rather than only a career?"
+    ],
+    "bridge": {
+      "concept": "Nishkama Karma and Svadharma",
+      "tradition": "Hindu (Bhagavad Gita)",
+      "resonance": "The Gita's teaching on nishkama karma, action without selfish craving for its fruits, is one of its great gifts: you have a right to the action alone, never to its fruits (2.47). Krishna urges Arjuna not to abandon the world but to do his own duty (svadharma) as an offering. Like Luther, who rejected the idea that monks were holier than householders, the Gita refuses to make withdrawal from work the only spiritual path. Both dignify ordinary duty and call for work done without self-seeking.",
+      "difference": "In the Gita, desireless action is a path, karma yoga, that loosens the bonds of karma and leads toward liberation. Protestants believe work never earns salvation; vocation is the grateful response of those already saved by grace, aimed at the neighbour's good. Svadharma has traditionally been tied to one's varna and stage of life, though many modern interpreters read it by temperament. A Christian calling is not fixed by birth: a person may change their station (1 Cor 7:21), and every honest calling is equally holy.",
+      "invitation": "Ask whether your work is mainly a path toward your own freedom, or a way of caring for the people around you."
+    }
+  },
+  {
+    "id": "peace",
+    "title": "Peace",
+    "category": "good-life",
+    "icon": "dove",
+    "hook": "Is peace only the absence of war?",
+    "summary": "The Hebrew word shalom means far more than the absence of conflict. It means wholeness, well-being and right relationship, with God, with others and with creation. The priestly blessing asks that the LORD “lift up His countenance toward you and give you peace” (Num 6:26). Isaiah foretold a child who would be called “Prince of Peace” (Isa 9:6), and a day when nations “will beat their swords into plowshares” (Isa 2:4). Protestants believe the root of all true peace is peace with God: “since we have been justified through faith, we have peace with God through our Lord Jesus Christ” (Rom 5:1). Christ made this peace “through the blood of His cross” (Col 1:20), and he “is our peace,” tearing down the walls of hostility between peoples (Eph 2:14). He promised his followers a peace unlike the world's (John 14:27), even in the midst of trouble (John 16:33). This peace “surpasses all understanding” (Phil 4:7). And it sends believers out as peacemakers: “Blessed are the peacemakers” (Matt 5:9).",
+    "philosophy": "Philosophers have long sought peace of mind. The Stoics and Epicureans aimed at ataraxia, a calm free from disturbance, reached by mastering desire or accepting fate. Augustine defined peace as the tranquillity of order: everything in its right place and relation, beginning with a soul rightly ordered toward God. Hobbes thought that humans in their natural state live in a war of all against all, and need a powerful sovereign to keep the peace. Kant wrote an essay proposing a perpetual peace among nations, secured by law and federation. The biblical vision includes both inner and outer peace, but grounds them in reconciliation rather than in control or detachment. Peace is not found by escaping the world's troubles, but by being reconciled to God in the midst of them. Bonhoeffer, preaching as war loomed in 1934, insisted that peace must be dared as a great venture and can never be made safe by weapons alone.",
+    "keyVerses": ["Num.6.24-Num.6.26", "Isa.2.4", "Isa.9.6-Isa.9.7", "Isa.26.3", "John.14.27", "Rom.5.1", "Eph.2.14-Eph.2.17", "Phil.4.6-Phil.4.7"],
+    "people": ["jesus_905", "aaron_1", "isaiah_617", "paul_2479"],
+    "related": ["forgiveness", "atonement", "prayer", "sabbath-and-rest", "justice-and-mercy"],
+    "creeds": [
+      {"creed": "westminster_shorter_catechism", "item": "36", "label": "Westminster Shorter Catechism Q36"},
+      {"creed": "belgic_confession_of_faith", "item": "23", "label": "Belgic Confession Art. 23 (The Justification of Sinners)"}
+    ],
+    "reflect": [
+      "Where in your life do you need not just calm, but reconciliation?",
+      "What is the difference between keeping the peace and making peace?",
+      "Can a person be at peace while their circumstances are still troubled?"
+    ],
+    "bridge": {
+      "concept": "Shanti",
+      "tradition": "Hindu (Vedic and Upanishadic)",
+      "resonance": "Many Upanishads open or close with the invocation “Om shanti, shanti, shanti,” a prayer for peace spoken three times: peace within oneself, peace from other beings, and peace from forces beyond our control. Like shalom, shanti means more than the absence of conflict; it is a deep wholeness and calm that comes from right relationship with reality. Both traditions treat peace as a gift to be prayed for, not only a condition to be engineered.",
+      "difference": "Shanti is often understood as a tranquillity reached through detachment and inner realization. Protestants believe the deepest peace is relational and costly: peace with a holy God, secured when Christ reconciled sinners “by making peace through the blood of His cross” (Col 1:20). This peace is not withdrawal from conflict but reconciliation in the middle of it, and it reaches outward to break down hostility between enemies and peoples (Eph 2:14).",
+      "invitation": "Consider whether the peace you most long for would come from letting go of the world, or from being reconciled within it."
+    }
+  }
+]

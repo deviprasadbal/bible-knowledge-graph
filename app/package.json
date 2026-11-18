@@ -1,0 +1,25 @@
+{
+  "name": "living-word-graph",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "1.9",
+    "lucide-react": "^1.74.0",
+    "minisearch": "^7.2.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-force-graph-2d": "^1.29.2",
+    "react-leaflet": "^5.0.0",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.3.0",
+    "vite": "^8.3.8"
+  }
+}

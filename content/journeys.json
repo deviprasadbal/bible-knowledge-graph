@@ -1,0 +1,542 @@
+[
+  {
+    "id": "big-story",
+    "title": "The Big Story in 8 Steps",
+    "subtitle": "Walk the whole Bible, from the first garden to the city of God, in eight readings.",
+    "level": "first-steps",
+    "minutes": 60,
+    "icon": "map",
+    "steps": [
+      {
+        "ref": "Gen.1.1-Gen.2.3",
+        "title": "Creation",
+        "note": "The Bible begins not with humans searching for God but with God speaking a world into being. Notice the rhythm: God speaks, it happens, and he calls it good. Human beings alone are made in his image, male and female. Christians read this as an answer to the oldest question, why there is something rather than nothing: the world exists because a good God freely willed it."
+      },
+      {
+        "ref": "Gen.3.1-Gen.3.24",
+        "title": "The Fall",
+        "note": "The serpent's first move is a question: “Did God really say?” Trust breaks before any fruit is eaten. Then come shame, hiding and blame. Yet notice that God comes looking, calling “Where are you?”, and clothes the couple before sending them out. Protestants call this the Fall: a turning away from God that now runs through every human heart. Many Christians hear in verse 15 a first hint of the gospel."
+      },
+      {
+        "ref": "Gen.12.1-Gen.12.9",
+        "title": "The Promise",
+        "note": "After the spreading darkness of Genesis 3-11, God chooses one elderly, childless man and makes him a promise: land, descendants and blessing. The goal is wide: through Abram “all the families of the earth will be blessed.” Abram's part is simply to trust and go. Paul later holds up Abraham as the model of faith, believing God's word long before seeing it fulfilled."
+      },
+      {
+        "ref": "Exod.20.1-Exod.20.17",
+        "title": "Law and Covenant",
+        "note": "Read verse 2 carefully before the commands. God first reminds Israel that he has already brought them out of slavery; the law comes after the rescue, not as the price of it. Protestants see a pattern here: grace first, then a life of grateful obedience. The first commands concern love for God and the rest love for neighbor, the two loves Jesus later named as the heart of the whole Law."
+      },
+      {
+        "ref": "Ezek.37.1-Ezek.37.14",
+        "title": "Exile and Hope",
+        "note": "Israel's story includes kings, a temple and a promise to David of an everlasting throne, but also centuries of unfaithfulness ending in exile to Babylon. Here the exiles say, “Our bones are dried up, and our hope has perished.” Ezekiel sees God's Spirit breathe life into a valley of skeletons. The prophets insist that judgment is not God's last word: he can raise a dead people to life."
+      },
+      {
+        "ref": "Luke.24.13-Luke.24.35",
+        "title": "Jesus",
+        "note": "Two grieving disciples walk away from Jerusalem after the crucifixion, saying, “We were hoping He was the One.” A stranger joins them and, beginning with Moses and all the Prophets, explains what the Scriptures say about himself. They recognize the risen Jesus as he breaks bread. This passage is the key to the whole journey: Christians read every earlier step as pointing to him."
+      },
+      {
+        "ref": "Acts.2.1-Acts.2.47",
+        "title": "The Church",
+        "note": "Fifty days after Passover, the Holy Spirit comes on Jesus' followers, and people from many nations hear the message in their own languages, a reversal of the scattering at Babel in Genesis 11. Peter announces that Jesus, crucified and risen, is Lord and Christ. Notice the new community at the end: learning, praying, eating together and sharing with anyone in need. The promise to Abraham is beginning to spread."
+      },
+      {
+        "ref": "Rev.21.1-Rev.22.5",
+        "title": "New Creation",
+        "note": "The story ends where it began, but transformed. The garden has become a city, the tree of life appears again, and God himself dwells with his people. There is no more death, mourning or pain. Notice that heaven comes down to earth: the Christian hope is not escape from the world but its renewal. Compare this ending with Genesis 1-3 and count the echoes."
+      }
+    ]
+  },
+  {
+    "id": "who-is-jesus",
+    "title": "Who Is Jesus? Mark's Gospel in 8 Scenes",
+    "subtitle": "Follow the shortest Gospel as it asks, and answers, the question at the heart of Christianity.",
+    "level": "first-steps",
+    "minutes": 50,
+    "icon": "cross",
+    "steps": [
+      {
+        "ref": "Mark.1.1-Mark.1.15",
+        "title": "The Beginning of the Good News",
+        "note": "Mark wastes no time. In fifteen verses we meet John the Baptist, hear a voice from heaven call Jesus “My beloved Son,” and see him tested in the wilderness. Jesus' first words sum up his message: the time is fulfilled, the kingdom of God is near, so repent and believe. “Gospel” means good news, the kind a herald brings about a victory or a new king."
+      },
+      {
+        "ref": "Mark.2.1-Mark.2.12",
+        "title": "Who Can Forgive Sins?",
+        "note": "Friends dig through a roof to lower a paralyzed man to Jesus. Surprisingly, Jesus first says, “Son, your sins are forgiven.” The religious teachers object, and their logic is sound: who can forgive sins but God alone? Jesus then heals the man to show that he has that authority. Watch how Mark lets the reader reach a startling conclusion before the characters in the story do."
+      },
+      {
+        "ref": "Mark.4.35-Mark.4.41",
+        "title": "Even the Wind and the Sea Obey Him",
+        "note": "In the Old Testament it is the LORD who stills the raging sea (see Psalm 107:28-30). Here Jesus sleeps through a storm, then silences it with a word. The disciples end up more afraid after the calm than during the storm, asking, “Who is this?” Mark wants his readers to ask the same question, and to hear Jesus' gentle challenge about fear and faith."
+      },
+      {
+        "ref": "Mark.8.27-Mark.8.38",
+        "title": "Who Do You Say I Am?",
+        "note": "This is the turning point of Mark. Peter confesses, “You are the Christ,” the promised Messiah. But Jesus immediately explains that the Son of Man must suffer, be killed and rise again, and Peter cannot accept it. Then Jesus invites anyone who wants to follow him to take up a cross. For Christians, who Jesus is and what following him costs can never be separated."
+      },
+      {
+        "ref": "Mark.10.35-Mark.10.45",
+        "title": "To Serve and to Give His Life",
+        "note": "James and John ask for the best seats in Jesus' coming glory. Jesus answers by redefining greatness: among his followers, whoever wants to be first must be the slave of all. Then comes one of the clearest statements of why he came: to give his life as a ransom for many. A ransom is a price paid to set captives free. Protestants see here the heart of the atonement: Christ in our place."
+      },
+      {
+        "ref": "Mark.14.53-Mark.14.65",
+        "title": "The Trial",
+        "note": "Throughout Mark, Jesus has kept his identity quiet. Now, on trial for his life, he answers plainly. Asked if he is the Christ, the Son of the Blessed One, he says “I am,” and claims the glory of the Son of Man from Daniel 7. The high priest calls it blasphemy. Meanwhile Peter waits in the courtyard below, about to deny him, just as Jesus had foretold."
+      },
+      {
+        "ref": "Mark.15.21-Mark.15.39",
+        "title": "The Cross",
+        "note": "Mark describes the crucifixion with restraint. Jesus is mocked, darkness covers the land, and he cries out the opening words of Psalm 22: “My God, My God, why have You forsaken Me?” Christians understand this as the moment he bore the judgment sin deserves. The temple veil tears from top to bottom, and a Roman centurion becomes the first human in Mark to call Jesus the Son of God."
+      },
+      {
+        "ref": "Mark.16.1-Mark.16.8",
+        "title": "He Has Risen",
+        "note": "The women come to anoint a body and find an empty tomb and a messenger: “He has risen! He is not here!” Notice the tender detail: “tell His disciples and Peter,” the one who denied him. The earliest manuscripts end abruptly at verse 8 with the women afraid; verses 9-20 were probably added later, as many Bibles note. The open ending seems to ask each reader: what will you do with this news?"
+      }
+    ]
+  },
+  {
+    "id": "sermon-on-the-mount",
+    "title": "The Sermon on the Mount",
+    "subtitle": "Jesus' most famous teaching, read slowly, as a portrait of life in God's kingdom.",
+    "level": "first-steps",
+    "minutes": 40,
+    "icon": "mountain",
+    "steps": [
+      {
+        "ref": "Matt.5.1-Matt.5.12",
+        "title": "The Beatitudes",
+        "note": "Jesus begins not with commands but with blessings, and they are upside down. The poor in spirit, the mourners, the meek and the persecuted are called blessed, meaning favored by God and truly flourishing. The kingdom belongs first to those who know they have nothing to offer. Protestant readers have long seen this as where the gospel starts: with spiritual poverty, not achievement."
+      },
+      {
+        "ref": "Matt.5.13-Matt.5.20",
+        "title": "Salt, Light and the Law Fulfilled",
+        "note": "Jesus tells ordinary followers that they are the salt of the earth and the light of the world. He then insists he has come not to abolish the Law and the Prophets but to fulfill them. The bar he sets is startling: a righteousness that exceeds that of the scribes and Pharisees, the most devout people of the day. Keep that impossible-sounding demand in mind as you read on."
+      },
+      {
+        "ref": "Matt.5.21-Matt.5.37",
+        "title": "Deeper Than Rules",
+        "note": "Again and again Jesus says, “You have heard that it was said… But I tell you.” He takes commands about murder, adultery and oaths and drives them inward, to anger, lust and honesty of heart. Notice the authority he claims: he speaks as the Law's author, not its student. Calvin compared God's law to a mirror: it shows us our true condition and sends us looking for grace."
+      },
+      {
+        "ref": "Matt.5.38-Matt.5.48",
+        "title": "Love Your Enemies",
+        "note": "Here is perhaps the most radical teaching in the sermon: turn the other cheek, go the second mile, love your enemies and pray for those who persecute you. The reason given is about God himself: he sends sun and rain on the evil and the good alike, and his children should resemble him. “Be perfect” here means complete in love, as the Father is. Many admire this ethic; few find it easy."
+      },
+      {
+        "ref": "Matt.6.1-Matt.6.18",
+        "title": "In Secret, and the Lord's Prayer",
+        "note": "Jesus warns against religion performed for an audience. Giving, praying and fasting should be done before the Father who sees in secret. At the center he gives the Lord's Prayer, which Christians around the world still pray daily. Notice its order: God's name, kingdom and will come first; then our bread, our forgiveness and our protection. It teaches us what to want as well as what to ask."
+      },
+      {
+        "ref": "Matt.6.19-Matt.6.34",
+        "title": "Treasure and Worry",
+        "note": "Where your treasure is, Jesus says, there your heart will be also. He points to birds and wildflowers to show that anxiety adds nothing to life, and he calls his hearers to seek first the kingdom of God. This is not a call to carelessness but to trust in a Father who knows what we need. Ask what you most often worry about, and what that reveals about your treasure."
+      },
+      {
+        "ref": "Matt.7.1-Matt.7.12",
+        "title": "Judging, Asking and the Golden Rule",
+        "note": "Jesus warns against judging others while ignoring the beam in our own eye. He then invites bold prayer: ask, seek, knock, for the Father gives good gifts. The section ends with the Golden Rule. Versions of it appear in many traditions, including the Mahabharata and the Jewish teacher Hillel, usually in negative form: do not do what you would hate. Jesus states it positively, calling for active love."
+      },
+      {
+        "ref": "Matt.7.13-Matt.7.29",
+        "title": "Two Ways, Two Foundations",
+        "note": "The sermon ends with choices: the narrow gate and the wide, good fruit and bad, the house on rock and the house on sand. Hearing is not enough; the wise person acts on these words. The crowds are astonished because Jesus teaches with his own authority. Protestants read the sermon not as a ladder for earning heaven, but as the shape of life for those who build on Christ himself."
+      }
+    ]
+  },
+  {
+    "id": "grace",
+    "title": "Grace: Paul's Good News",
+    "subtitle": "Trace Paul's argument in Romans and Galatians that God freely accepts the ungodly through faith in Christ.",
+    "level": "deeper",
+    "minutes": 60,
+    "icon": "gift",
+    "steps": [
+      {
+        "ref": "Rom.1.16-Rom.1.17",
+        "title": "The Thesis",
+        "note": "These two verses are the thesis of Romans. The gospel is God's power for salvation to everyone who believes, because in it a righteousness from God is revealed, received by faith from start to finish. Paul quotes the prophet Habakkuk: the righteous will live by faith. Notice that the gospel is not first advice about what we must do, but news about what God has done."
+      },
+      {
+        "ref": "Rom.3.9-Rom.3.20",
+        "title": "No One Righteous",
+        "note": "Before the good news, the bad news. Paul strings together Old Testament quotations to show that all, Jews and Gentiles alike, are under sin. There is no one righteous, not even one. The law cannot fix this; it only brings awareness of sin. Protestants teach that people are not as bad as they could be, but that no part of human nature is untouched by sin."
+      },
+      {
+        "ref": "Rom.3.21-Rom.3.31",
+        "title": "But Now",
+        "note": "“But now” may be the two most important words in Romans. Apart from the law, a righteousness from God has been revealed, given through faith in Jesus Christ to all who believe. All have sinned, and all may be justified freely by his grace. God presented Christ as an atoning sacrifice, so that he is both just and the one who justifies. Protestants consider verses 21-26 the heart of the gospel."
+      },
+      {
+        "ref": "Rom.4.1-Rom.4.8",
+        "title": "Abraham Believed God",
+        "note": "Is this a new idea? Paul says no. Abraham, the father of Israel, was counted righteous because he believed God's promise (Genesis 15:6), not because of his works. David, too, celebrated the blessing of those whose sins are forgiven. Notice verse 5: God justifies the ungodly. Grace is not a reward for good people; it is a gift to people who could never earn it."
+      },
+      {
+        "ref": "Rom.5.1-Rom.5.11",
+        "title": "Peace with God",
+        "note": "Paul now describes the fruit of being justified: peace with God, access to grace, and a hope that holds firm even in suffering. Then comes an astonishing claim: God proves his love in this, that while we were still sinners, even enemies, Christ died for us. God does not love us because we are lovely; his love makes us lovely. Christian assurance rests on what God has done, not on our feelings."
+      },
+      {
+        "ref": "Rom.6.1-Rom.6.14",
+        "title": "Shall We Go On Sinning?",
+        "note": "If grace is free, why not keep sinning? Paul raises the objection himself and answers with a firm no. Through faith and baptism, believers are united with Christ in his death and resurrection, so sin is no longer their master and they live a new life. Protestants distinguish justification (being declared right with God) from sanctification (being made holy over time), but they never separate the two."
+      },
+      {
+        "ref": "Rom.8.28-Rom.8.39",
+        "title": "Nothing Can Separate Us",
+        "note": "Romans 8 is the summit of the letter. Paul traces what the Puritans called a golden chain, from God's foreknowledge to final glory, then asks: if God is for us, who can be against us? He lists every power he can think of and concludes that none can separate us from the love of God in Christ. Protestants have drawn deep comfort from this passage, and lively debate about predestination."
+      },
+      {
+        "ref": "Gal.2.15-Gal.2.21",
+        "title": "Crucified with Christ",
+        "note": "In Galatians Paul states the same truth more sharply: a person is justified not by works of the law but by faith in Jesus Christ. Then he makes it personal: “I have been crucified with Christ, and I no longer live, but Christ lives in me.” Faith here is not just agreeing with ideas; it unites us to a person who loved me and gave himself for me."
+      },
+      {
+        "ref": "Gal.5.13-Gal.5.26",
+        "title": "Freedom and the Fruit of the Spirit",
+        "note": "Freedom in Christ is not freedom to indulge ourselves but freedom to serve one another in love, which fulfills the whole law. Paul contrasts the works of the flesh with the fruit of the Spirit: love, joy, peace, patience, kindness and more. Notice the word “fruit”: these qualities grow from new life within rather than being manufactured by effort. The grace that saves also transforms."
+      }
+    ]
+  },
+  {
+    "id": "suffering-and-lament",
+    "title": "Suffering and Lament",
+    "subtitle": "How the Bible gives voice to pain, protest and grief, and where it finds hope.",
+    "level": "deeper",
+    "minutes": 55,
+    "icon": "droplets",
+    "steps": [
+      {
+        "ref": "Job.1.1-Job.2.10",
+        "title": "Everything Lost",
+        "note": "The book opens behind the curtain: the reader learns of a heavenly challenge that Job never hears about. Job loses his wealth, his ten children and his health, yet he worships: “The LORD gave, and the LORD has taken away.” Notice that the book never claims Job deserved this. From the start it sets aside the easy idea that suffering is always punishment for a particular sin."
+      },
+      {
+        "ref": "Job.3.1-Job.3.26",
+        "title": "Job Curses His Birth",
+        "note": "After seven days of silence with his friends, Job breaks out in anguish, wishing he had never been born. These are some of the darkest words in Scripture, and they are there on purpose: God does not ask sufferers to pretend. The friends' silence in 2:13 was their wisest moment; trouble starts when they begin to explain. Lament is not the opposite of faith, but often its rawest form."
+      },
+      {
+        "ref": "Job.38.1-Job.38.21",
+        "title": "God Answers from the Whirlwind",
+        "note": "After thirty-five chapters of debate, God finally speaks, but not with an explanation. Instead he asks Job a torrent of questions: Where were you when I laid the foundations of the earth? The point is not to crush Job but to enlarge his vision. Many readers notice that God answers whether he can be trusted, rather than why this suffering happened. Job is met, not merely informed."
+      },
+      {
+        "ref": "Job.42.1-Job.42.17",
+        "title": "Seeing God",
+        "note": "Job responds: “My ears had heard of You, but now my eyes have seen You.” Then comes a surprise: God rebukes the friends, who defended him with tidy theories, and says Job has spoken accurately about him. Job prays for them, and his fortunes are restored. Christians read the restoration not as a promise that suffering always ends well in this life, but as a sign that God's justice will finally prevail."
+      },
+      {
+        "ref": "Ps.13",
+        "title": "How Long, O LORD?",
+        "note": "Psalm 13 asks “How long?” four times in two verses. It names three griefs: God seems absent, sorrow fills the heart, and the enemy is winning. Yet in six short verses it moves from protest to trust, not because circumstances change but because the psalmist holds on to God's loving devotion. Many lament psalms follow this pattern: complaint, request, and then a decision to trust."
+      },
+      {
+        "ref": "Ps.22",
+        "title": "My God, My God, Why?",
+        "note": "This psalm of David begins with a cry of abandonment and ends with the ends of the earth turning to God. Jesus prayed its first line from the cross, and the Gospel writers saw the crucifixion reflected here, including pierced hands and feet and the casting of lots for clothing. Christians believe that in Christ, God himself entered the darkness of forsakenness, so that no sufferer is ever beyond his reach."
+      },
+      {
+        "ref": "Ps.88",
+        "title": "Darkness Is My Closest Companion",
+        "note": "Psalm 88 is the bleakest psalm in the Bible. Unlike most laments, it never turns to praise; its last word is darkness. Yet it is still a prayer, addressed to “the God of my salvation.” Its place in Scripture is a gift to anyone who cannot yet find hope: God allows his people to bring even unresolved despair to him. Sometimes faith is simply refusing to stop speaking to God."
+      },
+      {
+        "ref": "Lam.3.1-Lam.3.33",
+        "title": "New Every Morning",
+        "note": "Surveying the ruins of Jerusalem, the poet speaks as a man who has seen affliction. For twenty verses he describes God as the one who has crushed him. Then, at verse 21, something shifts: “Yet I call this to mind, and therefore I have hope.” The LORD's mercies never fail; they are new every morning. Hope here is not a feeling that simply arrives, but a truth deliberately remembered."
+      },
+      {
+        "ref": "John.11.17-John.11.44",
+        "title": "Jesus Wept",
+        "note": "Jesus arrives four days after his friend Lazarus has died. To grieving Martha he says, “I am the resurrection and the life.” Yet when he sees Mary weeping, he is deeply moved and weeps too, even though he is about to raise Lazarus. Christians find great comfort here: God in Christ does not stand above our grief but enters it, and he promises that death will not have the final word."
+      }
+    ]
+  },
+  {
+    "id": "wisdom-for-life",
+    "title": "Wisdom for Life",
+    "subtitle": "Proverbs, Ecclesiastes and James on living well before God in an uncertain world.",
+    "level": "first-steps",
+    "minutes": 45,
+    "icon": "lightbulb",
+    "steps": [
+      {
+        "ref": "Prov.1.1-Prov.1.7",
+        "title": "The Beginning of Knowledge",
+        "note": "Proverbs states its purpose plainly: wisdom, discipline, insight, justice and equity. Its foundation is verse 7: the fear of the LORD is the beginning of knowledge. This “fear” is not terror but reverent awe, the recognition that we are creatures before our Creator. In the Bible, wisdom is less about cleverness than about skill in living, rooted in a right relationship with God."
+      },
+      {
+        "ref": "Prov.3.1-Prov.3.12",
+        "title": "Trust in the LORD",
+        "note": "A father speaks to his son about loyalty, faithfulness and trust. Verses 5-6 are among the most loved in the Bible: trust in the LORD with all your heart, and lean not on your own understanding. This is not a rejection of thinking, but humility about its limits. Notice too that God's discipline is described as a sign of a father's love, not of rejection."
+      },
+      {
+        "ref": "Prov.8.22-Prov.8.36",
+        "title": "Wisdom at Creation",
+        "note": "Wisdom speaks as a person, present beside God at creation and delighting in the human race; whoever finds her finds life. Many early Christians heard in this poem a foreshadowing of Christ, the Word through whom all things were made. When Arius used verse 22 to argue that the Son was created, the Council of Nicaea (AD 325) confessed that he is “begotten, not made.” The poem is a vivid personification of God's own wisdom."
+      },
+      {
+        "ref": "Prov.15.1-Prov.15.4",
+        "title": "The Power of Words",
+        "note": "Most of Proverbs is made of two-line sayings like these, meant to be memorized and chewed over. A gentle answer turns away wrath; a soothing tongue is a tree of life. Notice the image: the tree of life lost in Eden reappears in ordinary kind speech. Try carrying one proverb with you through a day and watching where it applies."
+      },
+      {
+        "ref": "Eccl.1.1-Eccl.1.11",
+        "title": "Futility of Futilities",
+        "note": "The Teacher opens with a sigh: everything is futile, a breath, a vapor. The sun rises and sets, rivers run to the sea, generations come and go, and nothing seems to change. Readers often compare its mood to modern writers like Camus, who also wrestled with the apparent absurdity of life. Many interpreters take the phrase “under the sun” to mean life seen from a purely earthly vantage point."
+      },
+      {
+        "ref": "Eccl.3.1-Eccl.3.15",
+        "title": "A Time for Everything",
+        "note": "This famous poem lists fourteen pairs of opposites: a time to be born and to die, to weep and to laugh, to mourn and to dance. Life has seasons we do not control. Then comes verse 11: God has made everything beautiful in its time and has set eternity in the human heart, yet we cannot grasp the whole. Augustine said our hearts are restless until they rest in God."
+      },
+      {
+        "ref": "Eccl.12.1-Eccl.12.14",
+        "title": "Remember Your Creator",
+        "note": "The Teacher urges the young to remember their Creator before old age arrives, described in a haunting poem of dimming eyes, fading songs and a snapped silver cord. Death comes for everyone. His conclusion, after all the searching, is simple: fear God and keep his commandments, for God will bring every deed into judgment. Meaning is found not by escaping our limits but by living before God within them."
+      },
+      {
+        "ref": "Jas.1.2-Jas.1.8",
+        "title": "Ask for Wisdom",
+        "note": "James, a leader of the early church, writes like a New Testament book of Proverbs. He begins with a surprising claim: trials can be occasions for joy, because tested faith grows perseverance and maturity. And if you lack wisdom, simply ask God, who gives generously without finding fault. Notice that wisdom here is a gift received in prayer, not only a skill learned by experience."
+      },
+      {
+        "ref": "Jas.1.19-Jas.1.27",
+        "title": "Doers of the Word",
+        "note": "Be quick to listen, slow to speak and slow to anger. Then James gives a vivid image: hearing God's word without doing it is like looking in a mirror and immediately forgetting your own face. Pure religion is caring for orphans and widows in their distress and keeping oneself unpolluted by the world. For James, wisdom is visible: it shows itself in speech, compassion and integrity."
+      },
+      {
+        "ref": "Jas.3.13-Jas.3.18",
+        "title": "Wisdom from Above",
+        "note": "James contrasts two kinds of wisdom. One is driven by bitter jealousy and selfish ambition, and produces disorder. The other comes from above: pure, peace-loving, gentle, full of mercy and sincere. Notice that he describes wisdom by its character rather than its cleverness. The journey ends where Proverbs began: true wisdom starts with humility before God and shows itself in peace with others."
+      }
+    ]
+  },
+  {
+    "id": "prophets-and-justice",
+    "title": "Prophets and Justice",
+    "subtitle": "Hear the prophets' fierce call for justice, and see how it comes to focus in Jesus' mission.",
+    "level": "deeper",
+    "minutes": 45,
+    "icon": "scale",
+    "steps": [
+      {
+        "ref": "Amos.5.10-Amos.5.24",
+        "title": "Let Justice Roll",
+        "note": "Amos speaks to a prosperous society that is deeply religious and deeply unjust. The powerful trample the poor and take bribes in the courts, yet crowd the festivals. God's reply is shocking: “I hate, I despise your feasts!” Worship that ignores the oppressed offends him. Martin Luther King Jr. made verse 24 famous in the American civil rights movement: let justice roll on like a river."
+      },
+      {
+        "ref": "Isa.1.10-Isa.1.20",
+        "title": "Learn to Do Right",
+        "note": "Isaiah addresses Jerusalem's leaders as rulers of Sodom, a deliberate shock. Their sacrifices and prayers are worthless while their hands are covered with blood. The remedy is concrete: seek justice, correct the oppressor, defend the fatherless and plead for the widow. Then comes an offer of grace: though your sins are like scarlet, they will be as white as snow. Justice and forgiveness stand side by side."
+      },
+      {
+        "ref": "Mic.6.6-Mic.6.8",
+        "title": "What Does the LORD Require?",
+        "note": "Micah imagines a worshiper asking what offering could possibly satisfy God: calves, thousands of rams, rivers of oil, even a firstborn child? The answer is not a bigger sacrifice but a changed life: to act justly, to love mercy, and to walk humbly with God. These three phrases sum up the prophets. Christians believe only Christ has fully lived them out, and that his Spirit now forms them in his people."
+      },
+      {
+        "ref": "Jer.22.13-Jer.22.17",
+        "title": "Is This Not to Know Me?",
+        "note": "Jeremiah confronts King Jehoiakim, named in the next verse, who builds a luxurious palace with unpaid labor. He contrasts him with his father Josiah, who took up the cause of the poor and needy. Then comes a remarkable line: “Is this not what it means to know Me?” declares the LORD. For the prophets, knowing God is never only a matter of right ideas or religious feeling; it includes justice for the vulnerable."
+      },
+      {
+        "ref": "Isa.58.1-Isa.58.12",
+        "title": "The Fast I Have Chosen",
+        "note": "The people complain that God ignores their fasting. God replies that they fast while oppressing their workers and quarreling. The fast he wants is to break the chains of wickedness, share bread with the hungry, bring the homeless poor into their homes and clothe the naked. Then their light will break forth like the dawn. Spiritual practices are not rejected; they are meant to make us more just and generous."
+      },
+      {
+        "ref": "Hab.1.1-Hab.2.4",
+        "title": "How Long, and Why?",
+        "note": "Habakkuk asks God why injustice goes unpunished. God's answer, that he will use the Babylonians as judgment, raises a harder question: how can a holy God use a nation even more wicked? Habakkuk takes his stand at his guard post and waits. The reply: the proud will fall, but the righteous will live by faith. Justice, the prophet learns, is in God's hands and on God's timetable."
+      },
+      {
+        "ref": "Isa.11.1-Isa.11.9",
+        "title": "The Just King",
+        "note": "From the stump of Jesse, King David's father, a new shoot will grow. The Spirit of the LORD will rest on this king, and he will judge the poor with righteousness, not by appearances. The poem then widens into a vision of peace for all creation: the wolf with the lamb, an infant playing safely by the cobra's den. Christians see this king in Jesus, and this peace as the goal of history."
+      },
+      {
+        "ref": "Luke.4.16-Luke.4.21",
+        "title": "Good News to the Poor",
+        "note": "In his hometown synagogue, Jesus reads from Isaiah 61: good news to the poor, liberty to the captives, sight for the blind, release for the oppressed. Then he sits down and says, “Today this Scripture is fulfilled in your hearing.” The prophets' longing for justice comes to focus in him. Protestants believe Jesus brings both the forgiveness of sins and the beginning of a kingdom where justice and mercy meet."
+      }
+    ]
+  },
+  {
+    "id": "love",
+    "title": "Love",
+    "subtitle": "From a prophet's broken marriage to the cross, discover what the Bible means by love.",
+    "level": "first-steps",
+    "minutes": 40,
+    "icon": "heart",
+    "steps": [
+      {
+        "ref": "Hos.3.1-Hos.3.5",
+        "title": "Love Her Again",
+        "note": "God tells Hosea to go and love his unfaithful wife again, and Hosea pays a price to bring her home. It is a living parable: “Love her as the LORD loves the Israelites, though they turn to other gods.” Love here is not a feeling that depends on being deserved. It is a costly, faithful commitment that buys back the beloved. Christians see in it a picture of redemption."
+      },
+      {
+        "ref": "Hos.11.1-Hos.11.9",
+        "title": "How Could I Give You Up?",
+        "note": "God speaks like a parent remembering a child's first steps: he taught Ephraim to walk and bent down to feed him. Yet the child keeps running away. Then comes an outburst: “How could I give you up?” Compassion overcomes wrath, because he is God and not man. Classic Protestant theology says God is not swayed by passions as we are, and reads this as real love described in human terms. Either way, it is not indifferent."
+      },
+      {
+        "ref": "Luke.10.25-Luke.10.37",
+        "title": "Who Is My Neighbor?",
+        "note": "An expert in the law agrees that God's law is summed up in love for God and neighbor. Then, wanting to justify himself, he asks, “And who is my neighbor?” Jesus answers with a story in which the hero is a Samaritan, a despised outsider, who shows mercy to a wounded stranger. The question shifts from “Who deserves my love?” to “Will I be a neighbor?”"
+      },
+      {
+        "ref": "Luke.15.1-Luke.15.10",
+        "title": "The Lost Sheep and the Lost Coin",
+        "note": "Religious leaders grumble that Jesus welcomes sinners and eats with them. He answers with stories of a shepherd who leaves ninety-nine sheep to find one, and a woman who sweeps the house for a single coin. In both, the finder throws a party. Notice who does the seeking: not the lost, but the one who lost them. There is joy in heaven over one sinner who repents."
+      },
+      {
+        "ref": "Luke.15.11-Luke.15.32",
+        "title": "The Father and Two Sons",
+        "note": "A younger son demands his inheritance, wastes it, and comes home hoping to be a hired servant. While he is still far off, his father runs to embrace him. But there is a second son, who has obeyed all along and resents the celebration. The father goes out and pleads with him too. Jesus leaves the ending open. Both rebellion and self-righteousness can keep us from the feast of grace."
+      },
+      {
+        "ref": "John.15.9-John.15.17",
+        "title": "Greater Love Has No One",
+        "note": "On the night before his death, Jesus tells his disciples to remain in his love, as he remains in his Father's love. His command is simple: love one another as I have loved you. Then he gives the measure: greater love has no one than this, that he lay down his life for his friends. Within hours, he would do exactly that. Notice that he calls them friends, not servants."
+      },
+      {
+        "ref": "1Cor.13.1-1Cor.13.13",
+        "title": "Love Is Patient",
+        "note": "Often read at weddings, this chapter was first written to a quarreling church proud of its spiritual gifts. Paul says that eloquence, knowledge, faith and even self-sacrifice are nothing without love. Then he describes love by what it does: it is patient and kind, not envious or proud, and keeps no account of wrongs. Try putting your own name in place of “love”; then try the name of Jesus."
+      },
+      {
+        "ref": "1John.4.7-1John.4.21",
+        "title": "God Is Love",
+        "note": "John makes one of the boldest statements in Scripture: God is love. But he immediately defines it: love is not that we loved God, but that he loved us and sent his Son as the atoning sacrifice for our sins. Our love is a response: we love because he first loved us. And anyone who claims to love God while hating a brother, John says bluntly, is a liar."
+      }
+    ]
+  },
+  {
+    "id": "reformation-bible",
+    "title": "The Reformation's Bible",
+    "subtitle": "The passages that convinced Luther, Calvin and the Reformers that salvation is God's free gift.",
+    "level": "deeper",
+    "minutes": 45,
+    "icon": "scroll",
+    "steps": [
+      {
+        "ref": "Rom.1.16-Rom.1.17",
+        "title": "The Righteousness of God",
+        "note": "Late in life Luther recalled that, as a young monk, he had come to hate the phrase “the righteousness of God,” thinking it meant only the justice by which God punishes sinners. Meditating on these verses, he grasped that it is the righteousness God gives to those who believe. He said he felt born again, as though he had entered paradise through open gates. This discovery lit the fuse of the Reformation."
+      },
+      {
+        "ref": "Gen.15.1-Gen.15.6",
+        "title": "Abraham Believed",
+        "note": "Under a sky full of stars, God promises childless Abram descendants beyond counting. Abram believed the LORD, and it was credited to him as righteousness. The Reformers loved this verse because Paul builds his case on it in Romans 4 and Galatians 3. Righteousness is credited, or reckoned: counted to Abram's account as a gift, not earned by his deeds. Protestants call this imputed righteousness."
+      },
+      {
+        "ref": "Rom.3.21-Rom.3.28",
+        "title": "Justified by Faith",
+        "note": "When Luther translated the New Testament into German in 1522, he rendered verse 28 as justified “by faith alone,” adding the word allein. Critics objected that the word is not in the Greek; Luther replied that it captures Paul's meaning, since Paul says “apart from works of the law.” Whatever one thinks of the translation, this is the passage on which the Protestant teaching of justification stands or falls."
+      },
+      {
+        "ref": "Eph.2.1-Eph.2.10",
+        "title": "By Grace Through Faith",
+        "note": "Paul describes humanity apart from God as dead in sin, not merely sick. The dead cannot raise themselves; God, rich in mercy, made us alive with Christ. Salvation is by grace through faith, the gift of God, so that no one can boast. Luther pressed this point against Erasmus in The Bondage of the Will. Notice verse 10: good works follow salvation as its fruit, not its cause."
+      },
+      {
+        "ref": "2Cor.5.17-2Cor.5.21",
+        "title": "The Great Exchange",
+        "note": "Verse 21 is one of the most compact statements of the gospel: God made Christ, who knew no sin, to be sin on our behalf, so that in him we might become the righteousness of God. Luther described salvation as a joyful exchange, like a marriage in which the bridegroom takes on the bride's debts and shares all his riches with her. Our sin goes to Christ; his righteousness comes to us."
+      },
+      {
+        "ref": "Heb.10.10-Heb.10.18",
+        "title": "Once for All",
+        "note": "Old covenant priests stood day after day offering sacrifices that could never take away sins. Christ offered one sacrifice for all time and then sat down, his work finished. The Reformers pressed this against the medieval Mass, which they believed treated his sacrifice as offered again; Catholic teaching describes it as making present the one sacrifice. For Protestants, the Lord's Supper receives Christ's finished work; it never repeats it."
+      },
+      {
+        "ref": "1Tim.2.5-1Tim.2.6",
+        "title": "One Mediator",
+        "note": "There is one God and one mediator between God and humanity, the man Christ Jesus, who gave himself as a ransom for all. This verse became a pillar of solus Christus, Christ alone. The Reformers taught that believers need no other go-between, whether saints, priests or the merits of others, because Christ himself brings us to God. Every believer may pray to the Father directly through him."
+      },
+      {
+        "ref": "1Pet.2.9-1Pet.2.10",
+        "title": "A Royal Priesthood",
+        "note": "Peter calls all believers, not only clergy, a royal priesthood. In 1520 Luther drew on this to argue for the priesthood of all believers: every Christian has direct access to God and a calling to serve him. This also transformed the meaning of work. A farmer, a mother or a shoemaker could serve God as truly as a monk. Protestants call this the doctrine of vocation."
+      },
+      {
+        "ref": "2Tim.3.14-2Tim.3.17",
+        "title": "All Scripture Is God-Breathed",
+        "note": "Paul reminds Timothy that the Scriptures make one wise for salvation through faith in Christ, and that all Scripture is God-breathed. This underlies sola Scriptura: the Bible is the final authority over all church teaching and tradition, though tradition is not worthless. Calvin compared Scripture to spectacles that help weak eyes see God clearly, and the Reformers worked to put the Bible into every language."
+      },
+      {
+        "ref": "Rom.11.33-Rom.11.36",
+        "title": "To Him Be the Glory",
+        "note": "After eleven chapters on sin, grace and God's purposes, Paul breaks into worship: from him and through him and to him are all things. This is soli Deo gloria, glory to God alone. If salvation is wholly God's gift, no one may boast, and God receives all the praise. Bach wrote “S.D.G.” at the end of his scores, and the Westminster Shorter Catechism opens with this aim."
+      }
+    ]
+  },
+  {
+    "id": "endings-and-beginnings",
+    "title": "Endings and Beginnings",
+    "subtitle": "The empty tomb, the hope of resurrection, and the promise that God will make all things new.",
+    "level": "first-steps",
+    "minutes": 45,
+    "icon": "sunrise",
+    "steps": [
+      {
+        "ref": "John.20.1-John.20.18",
+        "title": "Early, While It Was Still Dark",
+        "note": "Mary Magdalene comes to the tomb in the dark and finds it empty. Peter and the other disciple see the linen cloths lying there. Then Mary, weeping, mistakes the risen Jesus for the gardener until he speaks her name. Notice that the first witness is a woman, whose testimony counted for little in that culture; many scholars argue that no one inventing the story would have told it this way."
+      },
+      {
+        "ref": "John.20.24-John.20.31",
+        "title": "My Lord and My God",
+        "note": "Thomas refuses to believe without seeing the nail marks. A week later Jesus appears and invites him to touch. Thomas responds with the highest confession in the Gospels: “My Lord and my God!” Jesus blesses those who have not seen and yet believe, which includes every later reader. Then John explains why he wrote: so that you may believe and have life. Honest doubt is met here, not condemned."
+      },
+      {
+        "ref": "1Cor.15.1-1Cor.15.11",
+        "title": "Of First Importance",
+        "note": "Writing around AD 55, Paul passes on a summary he had himself received: Christ died for our sins, was buried, was raised on the third day, and appeared to Peter, to the Twelve, to more than five hundred at once, and to James. Many scholars, including skeptical ones, date this creed to within a few years of the crucifixion. It names witnesses who, Paul says, were mostly still living."
+      },
+      {
+        "ref": "1Cor.15.12-1Cor.15.22",
+        "title": "If Christ Has Not Been Raised",
+        "note": "Paul does not treat the resurrection as a symbol. If Christ has not been raised, he says, our preaching is worthless, faith is futile, and we are still in our sins. If our hope is for this life alone, we are to be pitied. This makes Christianity unusually open to historical questions. Then comes the claim: Christ has indeed been raised, the firstfruits, the first sign of a coming harvest."
+      },
+      {
+        "ref": "1Cor.15.50-1Cor.15.58",
+        "title": "Death Swallowed Up",
+        "note": "Paul describes the final resurrection: in a flash, the dead will be raised imperishable and we will all be changed. Then he taunts death itself: “Where, O Death, is your victory?” Christians believe not merely in the soul's survival but in the resurrection of the body, a renewed physical life. Notice the practical conclusion: because of this hope, your labor in the Lord is not in vain."
+      },
+      {
+        "ref": "Rom.8.18-Rom.8.25",
+        "title": "Creation Groaning",
+        "note": "Paul widens the hope beyond human beings. The whole creation has been subjected to futility and decay, and it groans as in the pains of childbirth, waiting to be set free. Believers groan too, waiting for the redemption of their bodies. Childbirth is a telling image: the pain is real, but it is the pain of something being born. Present suffering is not the end of the story."
+      },
+      {
+        "ref": "Isa.65.17-Isa.65.25",
+        "title": "New Heavens and a New Earth",
+        "note": "Long before Revelation, Isaiah heard God promise: “I will create new heavens and a new earth.” His picture is earthy and concrete: no more weeping, long lives, people living in the houses they build and eating the fruit of their vineyards, the wolf and the lamb feeding together. The biblical hope is not an escape from creation but its healing. Ordinary goods are restored, not abolished."
+      },
+      {
+        "ref": "Rev.21.1-Rev.21.8",
+        "title": "All Things New",
+        "note": "John sees a new heaven and a new earth, and the holy city coming down from God. A voice announces that God's dwelling is with humanity; he will wipe away every tear, and death will be no more. The One on the throne says, “Behold, I make all things new.” Notice: all things new, not all new things. The old creation is renewed, not discarded, though evil has no place in it."
+      },
+      {
+        "ref": "Rev.22.1-Rev.22.5",
+        "title": "The River and the Tree of Life",
+        "note": "The Bible's story began in a garden with a tree of life that humanity lost. Now the tree of life stands beside a river flowing from the throne of God and of the Lamb, and its leaves are for the healing of the nations. There is no more curse, and God's servants will see his face. The deepest hope, Christians believe, is not only paradise restored but seeing God face to face."
+      },
+      {
+        "ref": "Rev.22.16-Rev.22.21",
+        "title": "Come",
+        "note": "The Bible ends with an invitation. Jesus calls himself the Root and Offspring of David and the bright Morning Star, the star that announces the dawn. The Spirit and the bride, the church, say “Come!”, and anyone who is thirsty may drink the water of life freely. The last prayer is “Come, Lord Jesus,” and the last word is grace. The story is not finished; it awaits its final chapter."
+      }
+    ]
+  }
+]

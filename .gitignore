@@ -1,0 +1,24 @@
+# dependencies & builds
+node_modules/
+app/dist/
+# generated web data (rebuilt by pipeline/build_all.sh and in CI)
+app/public/data/
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+*.log
+# secrets: never commit
+.env
+.env.*
+*.pem
+*.key
+
+# local tooling / personal files (not published)
+.claude/
+docs/*.pdf
